@@ -10,7 +10,7 @@ with open('pick_locations.csv', "a", newline='') as location_file:
     num_of_new_images = int(input('How many new images? '))
 
     current_index = next_index
-    while current_index <= (current_index + num_of_new_images):
+    while current_index < (next_index + num_of_new_images):
         file_index_string = '{:0>4}'.format(current_index)
         current_row = {
         'id': str(current_index),
