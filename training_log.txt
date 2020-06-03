@@ -1,0 +1,2074 @@
+------------------------------------------------------------------------------------
+AMOUNT OF DATA: T-628 V-96
+------------------------------------------------------------------------------------
+Epoch 0/499, Current Learning Rate: 0.0001
+Stored best model weights.
+Training loss: 0.032058, Accuracy: 10.27
+Validation loss: 0.038088, Accuracy: 8.01
+-------------------------------------------
+Epoch 1/499, Current Learning Rate: 0.0001
+Training loss: 0.030825, Accuracy: 10.05
+Validation loss: 0.040402, Accuracy: 7.83
+-------------------------------------------
+Epoch 2/499, Current Learning Rate: 0.0001
+Training loss: 0.031893, Accuracy: 9.56
+Validation loss: 0.039745, Accuracy: 7.11
+-------------------------------------------
+Epoch 3/499, Current Learning Rate: 0.0001
+Training loss: 0.031101, Accuracy: 10.62
+Validation loss: 0.038598, Accuracy: 7.75
+-------------------------------------------
+Epoch 4/499, Current Learning Rate: 0.0001
+Stored best model weights.
+Training loss: 0.031830, Accuracy: 10.47
+Validation loss: 0.037146, Accuracy: 8.50
+-------------------------------------------
+Epoch 5/499, Current Learning Rate: 0.0001
+Training loss: 0.031457, Accuracy: 10.33
+Validation loss: 0.038568, Accuracy: 8.55
+-------------------------------------------
+Epoch 6/499, Current Learning Rate: 0.0001
+Training loss: 0.031088, Accuracy: 10.55
+Validation loss: 0.038918, Accuracy: 6.95
+-------------------------------------------
+Epoch 7/499, Current Learning Rate: 0.0001
+Training loss: 0.030487, Accuracy: 10.66
+Validation loss: 0.041525, Accuracy: 6.84
+-------------------------------------------
+Epoch 8/499, Current Learning Rate: 0.0001
+Training loss: 0.030640, Accuracy: 10.95
+Validation loss: 0.038130, Accuracy: 7.00
+-------------------------------------------
+Epoch 9/499, Current Learning Rate: 0.0001
+Training loss: 0.031247, Accuracy: 10.51
+Validation loss: 0.037982, Accuracy: 7.04
+-------------------------------------------
+Epoch 10/499, Current Learning Rate: 0.0001
+Stored best model weights.
+Training loss: 0.030902, Accuracy: 11.20
+Validation loss: 0.036963, Accuracy: 7.69
+-------------------------------------------
+Epoch 11/499, Current Learning Rate: 0.0001
+Stored best model weights.
+Training loss: 0.030855, Accuracy: 11.08
+Validation loss: 0.035720, Accuracy: 7.05
+-------------------------------------------
+Epoch 12/499, Current Learning Rate: 0.0001
+Training loss: 0.031226, Accuracy: 10.59
+Validation loss: 0.038879, Accuracy: 8.23
+-------------------------------------------
+Epoch 13/499, Current Learning Rate: 0.0001
+Training loss: 0.030089, Accuracy: 10.50
+Validation loss: 0.037974, Accuracy: 8.00
+-------------------------------------------
+Epoch 14/499, Current Learning Rate: 0.0001
+Training loss: 0.030462, Accuracy: 10.72
+Validation loss: 0.038309, Accuracy: 7.40
+-------------------------------------------
+Epoch 15/499, Current Learning Rate: 0.0001
+Training loss: 0.031699, Accuracy: 10.87
+Validation loss: 0.037542, Accuracy: 7.25
+-------------------------------------------
+Epoch 16/499, Current Learning Rate: 0.0001
+Training loss: 0.030199, Accuracy: 10.88
+Validation loss: 0.037646, Accuracy: 7.62
+-------------------------------------------
+Epoch 17/499, Current Learning Rate: 0.0001
+Training loss: 0.030810, Accuracy: 11.01
+Validation loss: 0.037353, Accuracy: 7.51
+-------------------------------------------
+Epoch 18/499, Current Learning Rate: 0.0001
+Training loss: 0.030226, Accuracy: 10.87
+Validation loss: 0.038623, Accuracy: 9.05
+-------------------------------------------
+Epoch 19/499, Current Learning Rate: 0.0001
+Training loss: 0.029923, Accuracy: 10.74
+Validation loss: 0.037298, Accuracy: 6.99
+-------------------------------------------
+Epoch 20/499, Current Learning Rate: 0.0001
+Training loss: 0.030595, Accuracy: 10.16
+Validation loss: 0.044069, Accuracy: 8.00
+-------------------------------------------
+Epoch 21/499, Current Learning Rate: 0.0001
+Training loss: 0.030386, Accuracy: 10.76
+Validation loss: 0.039689, Accuracy: 9.21
+-------------------------------------------
+Epoch 22/499, Current Learning Rate: 0.0001
+Training loss: 0.029676, Accuracy: 11.39
+Validation loss: 0.038359, Accuracy: 8.75
+-------------------------------------------
+Epoch 23/499, Current Learning Rate: 0.0001
+Training loss: 0.029561, Accuracy: 10.73
+Validation loss: 0.035848, Accuracy: 7.72
+-------------------------------------------
+Epoch 24/499, Current Learning Rate: 0.0001
+Training loss: 0.030428, Accuracy: 10.91
+Validation loss: 0.040505, Accuracy: 7.23
+-------------------------------------------
+Epoch 25/499, Current Learning Rate: 0.0001
+Training loss: 0.029258, Accuracy: 11.13
+Validation loss: 0.036456, Accuracy: 7.80
+-------------------------------------------
+Epoch 26/499, Current Learning Rate: 0.0001
+Training loss: 0.028911, Accuracy: 11.28
+Validation loss: 0.035902, Accuracy: 8.67
+-------------------------------------------
+Epoch 27/499, Current Learning Rate: 0.0001
+Training loss: 0.029023, Accuracy: 11.20
+Validation loss: 0.037865, Accuracy: 7.83
+-------------------------------------------
+Epoch 28/499, Current Learning Rate: 0.0001
+Training loss: 0.029273, Accuracy: 11.44
+Validation loss: 0.036072, Accuracy: 9.59
+-------------------------------------------
+Epoch 29/499, Current Learning Rate: 0.0001
+Stored best model weights.
+Training loss: 0.029034, Accuracy: 11.48
+Validation loss: 0.035378, Accuracy: 8.20
+-------------------------------------------
+Epoch 30/499, Current Learning Rate: 0.0001
+Training loss: 0.029108, Accuracy: 11.32
+Validation loss: 0.041986, Accuracy: 8.01
+-------------------------------------------
+Epoch 31/499, Current Learning Rate: 0.0001
+Training loss: 0.029022, Accuracy: 11.44
+Validation loss: 0.040545, Accuracy: 7.58
+-------------------------------------------
+Epoch 32/499, Current Learning Rate: 0.0001
+Training loss: 0.029063, Accuracy: 11.91
+Validation loss: 0.038138, Accuracy: 8.02
+-------------------------------------------
+Epoch 33/499, Current Learning Rate: 0.0001
+Training loss: 0.029010, Accuracy: 11.11
+Validation loss: 0.037849, Accuracy: 8.18
+-------------------------------------------
+Epoch 34/499, Current Learning Rate: 0.0001
+Training loss: 0.028411, Accuracy: 11.75
+Validation loss: 0.038712, Accuracy: 8.37
+-------------------------------------------
+Epoch 35/499, Current Learning Rate: 0.0001
+Training loss: 0.028764, Accuracy: 11.70
+Validation loss: 0.035813, Accuracy: 11.35
+-------------------------------------------
+Epoch 36/499, Current Learning Rate: 0.0001
+Training loss: 0.028482, Accuracy: 11.12
+Validation loss: 0.040351, Accuracy: 7.49
+-------------------------------------------
+Epoch 37/499, Current Learning Rate: 0.0001
+Training loss: 0.028917, Accuracy: 11.45
+Validation loss: 0.036907, Accuracy: 8.77
+-------------------------------------------
+Epoch 38/499, Current Learning Rate: 0.0001
+Training loss: 0.029055, Accuracy: 11.64
+Validation loss: 0.040826, Accuracy: 8.86
+-------------------------------------------
+Epoch 39/499, Current Learning Rate: 0.0001
+Training loss: 0.027598, Accuracy: 12.09
+Validation loss: 0.038058, Accuracy: 8.55
+-------------------------------------------
+Epoch 40/499, Current Learning Rate: 0.0001
+Training loss: 0.028632, Accuracy: 11.91
+Validation loss: 0.037633, Accuracy: 9.23
+-------------------------------------------
+Epoch 41/499, Current Learning Rate: 0.0001
+Stored best model weights.
+Training loss: 0.028063, Accuracy: 11.47
+Validation loss: 0.035302, Accuracy: 8.29
+-------------------------------------------
+Epoch 42/499, Current Learning Rate: 0.0001
+Training loss: 0.027290, Accuracy: 12.43
+Validation loss: 0.040664, Accuracy: 7.87
+-------------------------------------------
+Epoch 43/499, Current Learning Rate: 0.0001
+Training loss: 0.027433, Accuracy: 12.20
+Validation loss: 0.036983, Accuracy: 8.70
+-------------------------------------------
+Epoch 44/499, Current Learning Rate: 0.0001
+Training loss: 0.027803, Accuracy: 12.29
+Validation loss: 0.041144, Accuracy: 8.35
+-------------------------------------------
+Epoch 45/499, Current Learning Rate: 0.0001
+Training loss: 0.026454, Accuracy: 12.87
+Validation loss: 0.038342, Accuracy: 11.29
+-------------------------------------------
+Epoch 46/499, Current Learning Rate: 0.0001
+Training loss: 0.027149, Accuracy: 12.01
+Validation loss: 0.036282, Accuracy: 10.68
+-------------------------------------------
+Epoch 47/499, Current Learning Rate: 0.0001
+
+Training loss: 0.027150, Accuracy: 12.31
+Validation loss: 0.037906, Accuracy: 9.92
+-------------------------------------------
+Epoch 48/499, Current Learning Rate: 0.0001
+Training loss: 0.025847, Accuracy: 12.65
+Validation loss: 0.036618, Accuracy: 10.33
+-------------------------------------------
+Epoch 49/499, Current Learning Rate: 0.0001
+Training loss: 0.026661, Accuracy: 12.81
+Validation loss: 0.035882, Accuracy: 8.71
+-------------------------------------------
+Epoch 50/499, Current Learning Rate: 0.0001
+Training loss: 0.026379, Accuracy: 12.65
+Validation loss: 0.037813, Accuracy: 9.65
+-------------------------------------------
+Epoch 51/499, Current Learning Rate: 0.0001
+Training loss: 0.027447, Accuracy: 12.66
+Validation loss: 0.038648, Accuracy: 9.28
+-------------------------------------------
+Epoch 52/499, Current Learning Rate: 0.0001
+Stored best model weights.
+Training loss: 0.026241, Accuracy: 12.79
+Validation loss: 0.034723, Accuracy: 9.80
+-------------------------------------------
+Epoch 53/499, Current Learning Rate: 0.0001
+Training loss: 0.025883, Accuracy: 13.13
+Validation loss: 0.038274, Accuracy: 11.03
+-------------------------------------------
+Epoch 54/499, Current Learning Rate: 0.0001
+Training loss: 0.026151, Accuracy: 12.24
+Validation loss: 0.038664, Accuracy: 9.12
+-------------------------------------------
+Epoch 55/499, Current Learning Rate: 0.0001
+Stored best model weights.
+Training loss: 0.024995, Accuracy: 12.72
+Validation loss: 0.034717, Accuracy: 11.35
+-------------------------------------------
+Epoch 56/499, Current Learning Rate: 0.0001
+Training loss: 0.025489, Accuracy: 13.97
+Validation loss: 0.034902, Accuracy: 10.64
+-------------------------------------------
+Epoch 57/499, Current Learning Rate: 0.0001
+Training loss: 0.025040, Accuracy: 13.63
+Validation loss: 0.037247, Accuracy: 9.75
+-------------------------------------------
+Epoch 58/499, Current Learning Rate: 0.0001
+Training loss: 0.024998, Accuracy: 12.99
+Validation loss: 0.034957, Accuracy: 9.71
+-------------------------------------------
+Epoch 59/499, Current Learning Rate: 0.0001
+Stored best model weights.
+Training loss: 0.024543, Accuracy: 13.66
+Validation loss: 0.034351, Accuracy: 11.51
+-------------------------------------------
+Epoch 60/499, Current Learning Rate: 0.0001
+Training loss: 0.024606, Accuracy: 13.24
+Validation loss: 0.039177, Accuracy: 10.08
+-------------------------------------------
+Epoch 61/499, Current Learning Rate: 0.0001
+Training loss: 0.024344, Accuracy: 13.80
+Validation loss: 0.036308, Accuracy: 11.35
+-------------------------------------------
+Epoch 62/499, Current Learning Rate: 0.0001
+Training loss: 0.024061, Accuracy: 13.98
+Validation loss: 0.035518, Accuracy: 10.35
+-------------------------------------------
+Epoch 63/499, Current Learning Rate: 0.0001
+Training loss: 0.023274, Accuracy: 14.11
+Validation loss: 0.036418, Accuracy: 9.67
+-------------------------------------------
+Epoch 64/499, Current Learning Rate: 0.0001
+Training loss: 0.024039, Accuracy: 14.35
+Validation loss: 0.037910, Accuracy: 8.73
+-------------------------------------------
+Epoch 65/499, Current Learning Rate: 0.0001
+Stored best model weights.
+Training loss: 0.023405, Accuracy: 14.78
+Validation loss: 0.032822, Accuracy: 11.99
+-------------------------------------------
+Epoch 66/499, Current Learning Rate: 0.0001
+Stored best model weights.
+Training loss: 0.023461, Accuracy: 14.45
+Validation loss: 0.031490, Accuracy: 12.27
+-------------------------------------------
+Epoch 67/499, Current Learning Rate: 0.0001
+Training loss: 0.022634, Accuracy: 14.50
+Validation loss: 0.034515, Accuracy: 10.42
+-------------------------------------------
+Epoch 68/499, Current Learning Rate: 0.0001
+Training loss: 0.022810, Accuracy: 13.67
+Validation loss: 0.033554, Accuracy: 11.32
+-------------------------------------------
+Epoch 69/499, Current Learning Rate: 0.0001
+Training loss: 0.021839, Accuracy: 15.16
+Validation loss: 0.032648, Accuracy: 10.53
+-------------------------------------------
+Epoch 70/499, Current Learning Rate: 0.0001
+Training loss: 0.022690, Accuracy: 14.85
+Validation loss: 0.034504, Accuracy: 10.93
+-------------------------------------------
+Epoch 71/499, Current Learning Rate: 0.0001
+Training loss: 0.022508, Accuracy: 14.71
+Validation loss: 0.035428, Accuracy: 10.13
+-------------------------------------------
+Epoch 72/499, Current Learning Rate: 0.0001
+Stored best model weights.
+Training loss: 0.021684, Accuracy: 15.90
+Validation loss: 0.029892, Accuracy: 12.55
+-------------------------------------------
+Epoch 73/499, Current Learning Rate: 0.0001
+Training loss: 0.021556, Accuracy: 14.69
+Validation loss: 0.031402, Accuracy: 11.11
+-------------------------------------------
+Epoch 74/499, Current Learning Rate: 0.0001
+Training loss: 0.021625, Accuracy: 15.81
+Validation loss: 0.035120, Accuracy: 10.31
+-------------------------------------------
+Epoch 75/499, Current Learning Rate: 0.0001
+Training loss: 0.020969, Accuracy: 15.74
+Validation loss: 0.030772, Accuracy: 13.96
+-------------------------------------------
+Epoch 76/499, Current Learning Rate: 0.0001
+Training loss: 0.021015, Accuracy: 15.85
+Validation loss: 0.033025, Accuracy: 10.97
+-------------------------------------------
+Epoch 77/499, Current Learning Rate: 0.0001
+Training loss: 0.020435, Accuracy: 16.84
+Validation loss: 0.034818, Accuracy: 9.65
+-------------------------------------------
+Epoch 78/499, Current Learning Rate: 0.0001
+Training loss: 0.020608, Accuracy: 16.20
+Validation loss: 0.032545, Accuracy: 9.94
+-------------------------------------------
+Epoch 79/499, Current Learning Rate: 0.0001
+Training loss: 0.021257, Accuracy: 16.21
+Validation loss: 0.031955, Accuracy: 12.05
+-------------------------------------------
+Epoch 80/499, Current Learning Rate: 0.0001
+Stored best model weights.
+Training loss: 0.019893, Accuracy: 17.74
+Validation loss: 0.029223, Accuracy: 13.04
+-------------------------------------------
+Epoch 81/499, Current Learning Rate: 0.0001
+Stored best model weights.
+Training loss: 0.020196, Accuracy: 17.31
+Validation loss: 0.028325, Accuracy: 12.69
+-------------------------------------------
+Epoch 82/499, Current Learning Rate: 0.0001
+Training loss: 0.019549, Accuracy: 17.77
+Validation loss: 0.029999, Accuracy: 12.05
+-------------------------------------------
+Epoch 83/499, Current Learning Rate: 0.0001
+Training loss: 0.019393, Accuracy: 17.24
+Validation loss: 0.028764, Accuracy: 13.80
+-------------------------------------------
+Epoch 84/499, Current Learning Rate: 0.0001
+Training loss: 0.018658, Accuracy: 18.43
+Validation loss: 0.030981, Accuracy: 13.44
+-------------------------------------------
+Epoch 85/499, Current Learning Rate: 0.0001
+Stored best model weights.
+Training loss: 0.018921, Accuracy: 18.99
+Validation loss: 0.028005, Accuracy: 13.82
+-------------------------------------------
+Epoch 86/499, Current Learning Rate: 0.0001
+Training loss: 0.018170, Accuracy: 19.68
+Validation loss: 0.030925, Accuracy: 12.24
+-------------------------------------------
+Epoch 87/499, Current Learning Rate: 0.0001
+Training loss: 0.018625, Accuracy: 19.85
+Validation loss: 0.028377, Accuracy: 13.48
+-------------------------------------------
+Epoch 88/499, Current Learning Rate: 0.0001
+Training loss: 0.018919, Accuracy: 18.38
+Validation loss: 0.033150, Accuracy: 11.88
+-------------------------------------------
+Epoch 89/499, Current Learning Rate: 0.0001
+Training loss: 0.018267, Accuracy: 19.12
+Validation loss: 0.030742, Accuracy: 13.28
+-------------------------------------------
+Epoch 90/499, Current Learning Rate: 0.0001
+Training loss: 0.017739, Accuracy: 19.91
+Validation loss: 0.031437, Accuracy: 12.33
+-------------------------------------------
+Epoch 91/499, Current Learning Rate: 0.0001
+Training loss: 0.017746, Accuracy: 19.76
+Validation loss: 0.031999, Accuracy: 11.32
+-------------------------------------------
+Epoch 92/499, Current Learning Rate: 0.0001
+Training loss: 0.018080, Accuracy: 19.51
+Validation loss: 0.031163, Accuracy: 12.42
+-------------------------------------------
+Epoch 93/499, Current Learning Rate: 0.0001
+Training loss: 0.017032, Accuracy: 21.38
+Validation loss: 0.030240, Accuracy: 14.70
+-------------------------------------------
+Epoch 94/499, Current Learning Rate: 0.0001
+
+Training loss: 0.016878, Accuracy: 20.29
+Validation loss: 0.029243, Accuracy: 16.20
+-------------------------------------------
+Epoch 95/499, Current Learning Rate: 0.0001
+Training loss: 0.016731, Accuracy: 20.65
+Validation loss: 0.030732, Accuracy: 12.98
+-------------------------------------------
+Epoch 96/499, Current Learning Rate: 0.0001
+Stored best model weights.
+Training loss: 0.016412, Accuracy: 21.30
+Validation loss: 0.028003, Accuracy: 14.48
+-------------------------------------------
+Epoch 97/499, Current Learning Rate: 0.0001
+Training loss: 0.016315, Accuracy: 21.40
+Validation loss: 0.030179, Accuracy: 13.22
+-------------------------------------------
+Epoch 98/499, Current Learning Rate: 0.0001
+Stored best model weights.
+Training loss: 0.016379, Accuracy: 21.92
+Validation loss: 0.026838, Accuracy: 16.83
+-------------------------------------------
+Epoch 99/499, Current Learning Rate: 0.0001
+Training loss: 0.015455, Accuracy: 22.28
+Validation loss: 0.029798, Accuracy: 14.57
+-------------------------------------------
+Epoch 100/499, Current Learning Rate: 0.0001
+Training loss: 0.016483, Accuracy: 20.87
+Validation loss: 0.027274, Accuracy: 16.46
+-------------------------------------------
+Epoch 101/499, Current Learning Rate: 0.0001
+Training loss: 0.016062, Accuracy: 21.86
+Validation loss: 0.030303, Accuracy: 16.89
+-------------------------------------------
+Epoch 102/499, Current Learning Rate: 0.0001
+Stored best model weights.
+Training loss: 0.014717, Accuracy: 23.33
+Validation loss: 0.025757, Accuracy: 16.76
+-------------------------------------------
+Epoch 103/499, Current Learning Rate: 0.0001
+Training loss: 0.015523, Accuracy: 22.72
+Validation loss: 0.025882, Accuracy: 15.98
+-------------------------------------------
+Epoch 104/499, Current Learning Rate: 0.0001
+Training loss: 0.014736, Accuracy: 23.46
+Validation loss: 0.032400, Accuracy: 13.93
+-------------------------------------------
+Epoch 105/499, Current Learning Rate: 0.0001
+Training loss: 0.015197, Accuracy: 22.49
+Validation loss: 0.028065, Accuracy: 16.88
+-------------------------------------------
+Epoch 106/499, Current Learning Rate: 0.0001
+Training loss: 0.014742, Accuracy: 22.88
+Validation loss: 0.027939, Accuracy: 16.06
+-------------------------------------------
+Epoch 107/499, Current Learning Rate: 0.0001
+Training loss: 0.015125, Accuracy: 23.30
+Validation loss: 0.027960, Accuracy: 15.64
+-------------------------------------------
+Epoch 108/499, Current Learning Rate: 0.0001
+Training loss: 0.015031, Accuracy: 23.59
+Validation loss: 0.027398, Accuracy: 17.27
+-------------------------------------------
+Epoch 109/499, Current Learning Rate: 0.0001
+Training loss: 0.015185, Accuracy: 22.23
+Validation loss: 0.027113, Accuracy: 14.57
+-------------------------------------------
+Epoch 110/499, Current Learning Rate: 0.0001
+Stored best model weights.
+Training loss: 0.014340, Accuracy: 23.55
+Validation loss: 0.025128, Accuracy: 18.65
+-------------------------------------------
+Epoch 111/499, Current Learning Rate: 0.0001
+Training loss: 0.013922, Accuracy: 24.66
+Validation loss: 0.026376, Accuracy: 16.46
+-------------------------------------------
+Epoch 112/499, Current Learning Rate: 0.0001
+Training loss: 0.013710, Accuracy: 24.99
+Validation loss: 0.029325, Accuracy: 16.27
+-------------------------------------------
+Epoch 113/499, Current Learning Rate: 0.0001
+Training loss: 0.013776, Accuracy: 24.47
+Validation loss: 0.027973, Accuracy: 16.37
+-------------------------------------------
+Epoch 114/499, Current Learning Rate: 0.0001
+Training loss: 0.013358, Accuracy: 25.57
+Validation loss: 0.025554, Accuracy: 17.56
+-------------------------------------------
+Epoch 115/499, Current Learning Rate: 0.0001
+Stored best model weights.
+Training loss: 0.013052, Accuracy: 25.94
+Validation loss: 0.025018, Accuracy: 17.83
+-------------------------------------------
+Epoch 116/499, Current Learning Rate: 0.0001
+Training loss: 0.012526, Accuracy: 26.62
+Validation loss: 0.026707, Accuracy: 18.40
+-------------------------------------------
+Epoch 117/499, Current Learning Rate: 0.0001
+Stored best model weights.
+Training loss: 0.013417, Accuracy: 24.30
+Validation loss: 0.023761, Accuracy: 17.87
+-------------------------------------------
+Epoch 118/499, Current Learning Rate: 0.0001
+Training loss: 0.013258, Accuracy: 24.58
+Validation loss: 0.026657, Accuracy: 18.25
+-------------------------------------------
+Epoch 119/499, Current Learning Rate: 0.0001
+Training loss: 0.013430, Accuracy: 25.30
+Validation loss: 0.025319, Accuracy: 17.70
+-------------------------------------------
+Epoch 120/499, Current Learning Rate: 0.0001
+Training loss: 0.012745, Accuracy: 26.04
+Validation loss: 0.028846, Accuracy: 15.83
+-------------------------------------------
+Epoch 121/499, Current Learning Rate: 0.0001
+Training loss: 0.012630, Accuracy: 26.76
+Validation loss: 0.027117, Accuracy: 18.89
+-------------------------------------------
+Epoch 122/499, Current Learning Rate: 0.0001
+Training loss: 0.011907, Accuracy: 27.11
+Validation loss: 0.023932, Accuracy: 20.08
+-------------------------------------------
+Epoch 123/499, Current Learning Rate: 0.0001
+Training loss: 0.012592, Accuracy: 26.71
+Validation loss: 0.025855, Accuracy: 19.67
+-------------------------------------------
+Epoch 124/499, Current Learning Rate: 0.0001
+Training loss: 0.012325, Accuracy: 27.01
+Validation loss: 0.025007, Accuracy: 19.88
+-------------------------------------------
+Epoch 125/499, Current Learning Rate: 0.0001
+Training loss: 0.012218, Accuracy: 27.74
+Validation loss: 0.028813, Accuracy: 16.93
+-------------------------------------------
+Epoch 126/499, Current Learning Rate: 0.0001
+Training loss: 0.012248, Accuracy: 27.46
+Validation loss: 0.026053, Accuracy: 19.69
+-------------------------------------------
+Epoch 127/499, Current Learning Rate: 0.0001
+Training loss: 0.011429, Accuracy: 28.75
+Validation loss: 0.024661, Accuracy: 18.79
+-------------------------------------------
+Epoch 128/499, Current Learning Rate: 0.0001
+Training loss: 0.011475, Accuracy: 27.99
+Validation loss: 0.024673, Accuracy: 19.81
+-------------------------------------------
+Epoch 129/499, Current Learning Rate: 0.0001
+Training loss: 0.011846, Accuracy: 27.31
+Validation loss: 0.025430, Accuracy: 20.74
+-------------------------------------------
+Epoch 130/499, Current Learning Rate: 0.0001
+Training loss: 0.011521, Accuracy: 28.07
+Validation loss: 0.025246, Accuracy: 20.13
+-------------------------------------------
+Epoch 131/499, Current Learning Rate: 0.0001
+Training loss: 0.011025, Accuracy: 28.73
+Validation loss: 0.025078, Accuracy: 20.14
+-------------------------------------------
+Epoch 132/499, Current Learning Rate: 0.0001
+Stored best model weights.
+Training loss: 0.011086, Accuracy: 27.44
+Validation loss: 0.023035, Accuracy: 20.76
+-------------------------------------------
+Epoch 133/499, Current Learning Rate: 0.0001
+Training loss: 0.011147, Accuracy: 28.60
+Validation loss: 0.024405, Accuracy: 20.25
+-------------------------------------------
+Epoch 134/499, Current Learning Rate: 0.0001
+Stored best model weights.
+Training loss: 0.011934, Accuracy: 28.23
+Validation loss: 0.022400, Accuracy: 21.03
+-------------------------------------------
+Epoch 135/499, Current Learning Rate: 0.0001
+Stored best model weights.
+Training loss: 0.010937, Accuracy: 29.41
+Validation loss: 0.022228, Accuracy: 20.75
+-------------------------------------------
+Epoch 136/499, Current Learning Rate: 0.0001
+Training loss: 0.010499, Accuracy: 29.44
+Validation loss: 0.023103, Accuracy: 21.15
+-------------------------------------------
+Epoch 137/499, Current Learning Rate: 0.0001
+Training loss: 0.011205, Accuracy: 28.25
+Validation loss: 0.023989, Accuracy: 20.71
+-------------------------------------------
+Epoch 138/499, Current Learning Rate: 0.0001
+Training loss: 0.010756, Accuracy: 29.73
+Validation loss: 0.024127, Accuracy: 18.64
+-------------------------------------------
+Epoch 139/499, Current Learning Rate: 0.0001
+Training loss: 0.010767, Accuracy: 28.87
+Validation loss: 0.025606, Accuracy: 19.84
+-------------------------------------------
+Epoch 140/499, Current Learning Rate: 0.0001
+
+Training loss: 0.009995, Accuracy: 30.05
+Validation loss: 0.022378, Accuracy: 22.20
+-------------------------------------------
+Epoch 141/499, Current Learning Rate: 0.0001
+Training loss: 0.010332, Accuracy: 29.97
+Validation loss: 0.025723, Accuracy: 17.96
+-------------------------------------------
+Epoch 142/499, Current Learning Rate: 0.0001
+Training loss: 0.010476, Accuracy: 29.79
+Validation loss: 0.024055, Accuracy: 19.82
+-------------------------------------------
+Epoch 143/499, Current Learning Rate: 0.0001
+Training loss: 0.009821, Accuracy: 30.82
+Validation loss: 0.026318, Accuracy: 20.52
+-------------------------------------------
+Epoch 144/499, Current Learning Rate: 0.0001
+Training loss: 0.010646, Accuracy: 27.47
+Validation loss: 0.023281, Accuracy: 21.86
+-------------------------------------------
+Epoch 145/499, Current Learning Rate: 0.0001
+Training loss: 0.009691, Accuracy: 30.59
+Validation loss: 0.022303, Accuracy: 18.89
+-------------------------------------------
+Epoch 146/499, Current Learning Rate: 0.0001
+Stored best model weights.
+Training loss: 0.010202, Accuracy: 30.42
+Validation loss: 0.021238, Accuracy: 21.34
+-------------------------------------------
+Epoch 147/499, Current Learning Rate: 0.0001
+Training loss: 0.009687, Accuracy: 31.15
+Validation loss: 0.023841, Accuracy: 22.90
+-------------------------------------------
+Epoch 148/499, Current Learning Rate: 0.0001
+Training loss: 0.009746, Accuracy: 31.35
+Validation loss: 0.021910, Accuracy: 20.19
+-------------------------------------------
+Epoch 149/499, Current Learning Rate: 0.0001
+Training loss: 0.009830, Accuracy: 29.82
+Validation loss: 0.021846, Accuracy: 20.10
+-------------------------------------------
+Epoch 150/499, Current Learning Rate: 0.0001
+Training loss: 0.010071, Accuracy: 30.17
+Validation loss: 0.025342, Accuracy: 20.85
+-------------------------------------------
+Epoch 151/499, Current Learning Rate: 0.0001
+Training loss: 0.009709, Accuracy: 31.62
+Validation loss: 0.021877, Accuracy: 21.99
+-------------------------------------------
+Epoch 152/499, Current Learning Rate: 0.0001
+Training loss: 0.009023, Accuracy: 32.07
+Validation loss: 0.021872, Accuracy: 22.24
+-------------------------------------------
+Epoch 153/499, Current Learning Rate: 0.0001
+Training loss: 0.008972, Accuracy: 32.22
+Validation loss: 0.022525, Accuracy: 23.11
+-------------------------------------------
+Epoch 154/499, Current Learning Rate: 0.0001
+Stored best model weights.
+Training loss: 0.009094, Accuracy: 31.58
+Validation loss: 0.020741, Accuracy: 23.71
+-------------------------------------------
+Epoch 155/499, Current Learning Rate: 0.0001
+Training loss: 0.009088, Accuracy: 32.34
+Validation loss: 0.022147, Accuracy: 23.22
+-------------------------------------------
+Epoch 156/499, Current Learning Rate: 0.0001
+Training loss: 0.008396, Accuracy: 32.59
+Validation loss: 0.022388, Accuracy: 23.14
+-------------------------------------------
+Epoch 157/499, Current Learning Rate: 0.0001
+Training loss: 0.009517, Accuracy: 31.30
+Validation loss: 0.021224, Accuracy: 21.45
+-------------------------------------------
+Epoch 158/499, Current Learning Rate: 0.0001
+Stored best model weights.
+Training loss: 0.009122, Accuracy: 31.98
+Validation loss: 0.020583, Accuracy: 21.82
+-------------------------------------------
+Epoch 159/499, Current Learning Rate: 0.0001
+Training loss: 0.008865, Accuracy: 33.58
+Validation loss: 0.023491, Accuracy: 22.11
+-------------------------------------------
+Epoch 160/499, Current Learning Rate: 0.0001
+Stored best model weights.
+Training loss: 0.008625, Accuracy: 33.32
+Validation loss: 0.020194, Accuracy: 21.88
+-------------------------------------------
+Epoch 161/499, Current Learning Rate: 0.0001
+Training loss: 0.008224, Accuracy: 33.06
+Validation loss: 0.020632, Accuracy: 24.02
+-------------------------------------------
+Epoch 162/499, Current Learning Rate: 0.0001
+Training loss: 0.008346, Accuracy: 33.51
+Validation loss: 0.022076, Accuracy: 20.56
+-------------------------------------------
+Epoch 163/499, Current Learning Rate: 0.0001
+Training loss: 0.008964, Accuracy: 33.06
+Validation loss: 0.022394, Accuracy: 22.44
+-------------------------------------------
+Epoch 164/499, Current Learning Rate: 0.0001
+Training loss: 0.008889, Accuracy: 32.33
+Validation loss: 0.023538, Accuracy: 20.83
+-------------------------------------------
+Epoch 165/499, Current Learning Rate: 0.0001
+Training loss: 0.008488, Accuracy: 34.14
+Validation loss: 0.020828, Accuracy: 24.14
+-------------------------------------------
+Epoch 166/499, Current Learning Rate: 0.0001
+Training loss: 0.008341, Accuracy: 33.21
+Validation loss: 0.020935, Accuracy: 24.24
+-------------------------------------------
+Epoch 167/499, Current Learning Rate: 0.0001
+Training loss: 0.008313, Accuracy: 32.42
+Validation loss: 0.023527, Accuracy: 22.23
+-------------------------------------------
+Epoch 168/499, Current Learning Rate: 0.0001
+Training loss: 0.008442, Accuracy: 34.09
+Validation loss: 0.021088, Accuracy: 23.50
+-------------------------------------------
+Epoch 169/499, Current Learning Rate: 0.0001
+Stored best model weights.
+Training loss: 0.007855, Accuracy: 34.11
+Validation loss: 0.020061, Accuracy: 23.67
+-------------------------------------------
+Epoch 170/499, Current Learning Rate: 0.0001
+Training loss: 0.008151, Accuracy: 33.72
+Validation loss: 0.022604, Accuracy: 22.35
+-------------------------------------------
+Epoch 171/499, Current Learning Rate: 0.0001
+Training loss: 0.008450, Accuracy: 33.00
+Validation loss: 0.021186, Accuracy: 25.69
+-------------------------------------------
+Epoch 172/499, Current Learning Rate: 0.0001
+Training loss: 0.007636, Accuracy: 35.55
+Validation loss: 0.021853, Accuracy: 24.83
+-------------------------------------------
+Epoch 173/499, Current Learning Rate: 0.0001
+Training loss: 0.007983, Accuracy: 33.66
+Validation loss: 0.020646, Accuracy: 23.16
+-------------------------------------------
+Epoch 174/499, Current Learning Rate: 0.0001
+Training loss: 0.007693, Accuracy: 35.62
+Validation loss: 0.020683, Accuracy: 23.92
+-------------------------------------------
+Epoch 175/499, Current Learning Rate: 0.0001
+Training loss: 0.007214, Accuracy: 36.21
+Validation loss: 0.022366, Accuracy: 22.48
+-------------------------------------------
+Epoch 176/499, Current Learning Rate: 0.0001
+Stored best model weights.
+Training loss: 0.006916, Accuracy: 36.80
+Validation loss: 0.019670, Accuracy: 23.98
+-------------------------------------------
+Epoch 177/499, Current Learning Rate: 0.0001
+Training loss: 0.007395, Accuracy: 35.29
+Validation loss: 0.020581, Accuracy: 21.00
+-------------------------------------------
+Epoch 178/499, Current Learning Rate: 0.0001
+Training loss: 0.007454, Accuracy: 35.09
+Validation loss: 0.022061, Accuracy: 24.10
+-------------------------------------------
+Epoch 179/499, Current Learning Rate: 0.0001
+Training loss: 0.007306, Accuracy: 35.78
+Validation loss: 0.019787, Accuracy: 23.97
+-------------------------------------------
+Epoch 180/499, Current Learning Rate: 0.0001
+Stored best model weights.
+Training loss: 0.007634, Accuracy: 35.34
+Validation loss: 0.019110, Accuracy: 24.84
+-------------------------------------------
+Epoch 181/499, Current Learning Rate: 0.0001
+Stored best model weights.
+Training loss: 0.007351, Accuracy: 36.13
+Validation loss: 0.018189, Accuracy: 25.32
+-------------------------------------------
+Epoch 182/499, Current Learning Rate: 0.0001
+Training loss: 0.007492, Accuracy: 35.10
+Validation loss: 0.020475, Accuracy: 25.80
+-------------------------------------------
+Epoch 183/499, Current Learning Rate: 0.0001
+Training loss: 0.007271, Accuracy: 36.69
+Validation loss: 0.021183, Accuracy: 25.35
+-------------------------------------------
+Epoch 184/499, Current Learning Rate: 0.0001
+Training loss: 0.007241, Accuracy: 36.71
+Validation loss: 0.022224, Accuracy: 23.76
+-------------------------------------------
+Epoch 185/499, Current Learning Rate: 0.0001
+Training loss: 0.006749, Accuracy: 37.02
+Validation loss: 0.019935, Accuracy: 25.79
+-------------------------------------------
+Epoch 186/499, Current Learning Rate: 0.0001
+Training loss: 0.007108, Accuracy: 37.42
+Validation loss: 0.021181, Accuracy: 24.12
+-------------------------------------------
+Epoch 187/499, Current Learning Rate: 0.0001
+
+Training loss: 0.006582, Accuracy: 37.81
+Validation loss: 0.019100, Accuracy: 27.16
+-------------------------------------------
+Epoch 188/499, Current Learning Rate: 0.0001
+Training loss: 0.007166, Accuracy: 36.12
+Validation loss: 0.018657, Accuracy: 25.74
+-------------------------------------------
+Epoch 189/499, Current Learning Rate: 0.0001
+Training loss: 0.006605, Accuracy: 38.06
+Validation loss: 0.022304, Accuracy: 24.69
+-------------------------------------------
+Epoch 190/499, Current Learning Rate: 0.0001
+Training loss: 0.006048, Accuracy: 39.10
+Validation loss: 0.018691, Accuracy: 27.72
+-------------------------------------------
+Epoch 191/499, Current Learning Rate: 0.0001
+Training loss: 0.006375, Accuracy: 37.56
+Validation loss: 0.019160, Accuracy: 23.69
+-------------------------------------------
+Epoch 192/499, Current Learning Rate: 0.0001
+Training loss: 0.006652, Accuracy: 37.97
+Validation loss: 0.018889, Accuracy: 26.51
+-------------------------------------------
+Epoch 193/499, Current Learning Rate: 0.0001
+Training loss: 0.006534, Accuracy: 36.43
+Validation loss: 0.018623, Accuracy: 26.66
+-------------------------------------------
+Epoch 194/499, Current Learning Rate: 0.0001
+Training loss: 0.006326, Accuracy: 37.41
+Validation loss: 0.019420, Accuracy: 27.68
+-------------------------------------------
+Epoch 195/499, Current Learning Rate: 0.0001
+Training loss: 0.006750, Accuracy: 38.04
+Validation loss: 0.018417, Accuracy: 27.79
+-------------------------------------------
+Epoch 196/499, Current Learning Rate: 0.0001
+Stored best model weights.
+Training loss: 0.006187, Accuracy: 39.38
+Validation loss: 0.017370, Accuracy: 27.20
+-------------------------------------------
+Epoch 197/499, Current Learning Rate: 0.0001
+Training loss: 0.006297, Accuracy: 38.15
+Validation loss: 0.019884, Accuracy: 25.13
+-------------------------------------------
+Epoch 198/499, Current Learning Rate: 0.0001
+Training loss: 0.006341, Accuracy: 37.68
+Validation loss: 0.019095, Accuracy: 25.32
+-------------------------------------------
+Epoch 199/499, Current Learning Rate: 0.0001
+Training loss: 0.006239, Accuracy: 39.40
+Validation loss: 0.020001, Accuracy: 26.80
+-------------------------------------------
+Epoch 200/499, Current Learning Rate: 0.0001
+Training loss: 0.006655, Accuracy: 37.37
+Validation loss: 0.018739, Accuracy: 24.31
+-------------------------------------------
+Epoch 201/499, Current Learning Rate: 0.0001
+Training loss: 0.006239, Accuracy: 39.00
+Validation loss: 0.020746, Accuracy: 27.20
+-------------------------------------------
+Epoch 202/499, Current Learning Rate: 0.0001
+Training loss: 0.006278, Accuracy: 37.88
+Validation loss: 0.018493, Accuracy: 24.31
+-------------------------------------------
+Epoch 203/499, Current Learning Rate: 0.0001
+Stored best model weights.
+Training loss: 0.006132, Accuracy: 37.39
+Validation loss: 0.017185, Accuracy: 24.07
+-------------------------------------------
+Epoch 204/499, Current Learning Rate: 0.0001
+Stored best model weights.
+Training loss: 0.006290, Accuracy: 37.45
+Validation loss: 0.016737, Accuracy: 26.38
+-------------------------------------------
+Epoch 205/499, Current Learning Rate: 0.0001
+Training loss: 0.006597, Accuracy: 37.70
+Validation loss: 0.019859, Accuracy: 23.90
+-------------------------------------------
+Epoch 206/499, Current Learning Rate: 0.0001
+Training loss: 0.006217, Accuracy: 39.30
+Validation loss: 0.020171, Accuracy: 29.31
+-------------------------------------------
+Epoch 207/499, Current Learning Rate: 0.0001
+Training loss: 0.006223, Accuracy: 38.46
+Validation loss: 0.018193, Accuracy: 26.16
+-------------------------------------------
+Epoch 208/499, Current Learning Rate: 0.0001
+Training loss: 0.006135, Accuracy: 38.19
+Validation loss: 0.017965, Accuracy: 26.77
+-------------------------------------------
+Epoch 209/499, Current Learning Rate: 0.0001
+Training loss: 0.005752, Accuracy: 39.49
+Validation loss: 0.020983, Accuracy: 24.54
+-------------------------------------------
+Epoch 210/499, Current Learning Rate: 0.0001
+Training loss: 0.005537, Accuracy: 39.93
+Validation loss: 0.019809, Accuracy: 26.83
+-------------------------------------------
+Epoch 211/499, Current Learning Rate: 0.0001
+Training loss: 0.005728, Accuracy: 40.00
+Validation loss: 0.020236, Accuracy: 26.87
+-------------------------------------------
+Epoch 212/499, Current Learning Rate: 0.0001
+Training loss: 0.005721, Accuracy: 39.47
+Validation loss: 0.017804, Accuracy: 25.81
+-------------------------------------------
+Epoch 213/499, Current Learning Rate: 0.0001
+Training loss: 0.005724, Accuracy: 39.48
+Validation loss: 0.017310, Accuracy: 24.96
+-------------------------------------------
+Epoch 214/499, Current Learning Rate: 0.0001
+Training loss: 0.005543, Accuracy: 39.83
+Validation loss: 0.017548, Accuracy: 30.11
+-------------------------------------------
+Epoch 215/499, Current Learning Rate: 0.0001
+Training loss: 0.005321, Accuracy: 41.13
+Validation loss: 0.017442, Accuracy: 27.71
+-------------------------------------------
+Epoch 216/499, Current Learning Rate: 0.0001
+Training loss: 0.005788, Accuracy: 39.91
+Validation loss: 0.020130, Accuracy: 26.09
+-------------------------------------------
+Epoch 217/499, Current Learning Rate: 0.0001
+Training loss: 0.005708, Accuracy: 40.57
+Validation loss: 0.018597, Accuracy: 23.58
+-------------------------------------------
+Epoch 218/499, Current Learning Rate: 0.0001
+Training loss: 0.005860, Accuracy: 39.99
+Validation loss: 0.020414, Accuracy: 22.25
+-------------------------------------------
+Epoch 219/499, Current Learning Rate: 0.0001
+Training loss: 0.005449, Accuracy: 40.21
+Validation loss: 0.018501, Accuracy: 26.38
+-------------------------------------------
+Epoch 220/499, Current Learning Rate: 0.0001
+Training loss: 0.005334, Accuracy: 40.97
+Validation loss: 0.018315, Accuracy: 28.06
+-------------------------------------------
+Epoch 221/499, Current Learning Rate: 0.0001
+Training loss: 0.004853, Accuracy: 41.61
+Validation loss: 0.017757, Accuracy: 28.38
+-------------------------------------------
+Epoch 222/499, Current Learning Rate: 0.0001
+Training loss: 0.005009, Accuracy: 41.84
+Validation loss: 0.018778, Accuracy: 27.96
+-------------------------------------------
+Epoch 223/499, Current Learning Rate: 0.0001
+Training loss: 0.005044, Accuracy: 42.15
+Validation loss: 0.017529, Accuracy: 29.81
+-------------------------------------------
+Epoch 224/499, Current Learning Rate: 0.0001
+Stored best model weights.
+Training loss: 0.005334, Accuracy: 39.51
+Validation loss: 0.016167, Accuracy: 29.14
+-------------------------------------------
+Epoch 225/499, Current Learning Rate: 0.0001
+Training loss: 0.005192, Accuracy: 42.57
+Validation loss: 0.017384, Accuracy: 27.78
+-------------------------------------------
+Epoch 226/499, Current Learning Rate: 0.0001
+Training loss: 0.005384, Accuracy: 40.91
+Validation loss: 0.018816, Accuracy: 24.69
+-------------------------------------------
+Epoch 227/499, Current Learning Rate: 0.0001
+Training loss: 0.004786, Accuracy: 43.14
+Validation loss: 0.017545, Accuracy: 28.63
+-------------------------------------------
+Epoch 228/499, Current Learning Rate: 0.0001
+Training loss: 0.004954, Accuracy: 42.38
+Validation loss: 0.017908, Accuracy: 26.84
+-------------------------------------------
+Epoch 229/499, Current Learning Rate: 0.0001
+Training loss: 0.004995, Accuracy: 41.54
+Validation loss: 0.022321, Accuracy: 23.60
+-------------------------------------------
+Epoch 230/499, Current Learning Rate: 0.0001
+Training loss: 0.004911, Accuracy: 42.67
+Validation loss: 0.017652, Accuracy: 27.46
+-------------------------------------------
+Epoch 231/499, Current Learning Rate: 0.0001
+Training loss: 0.004750, Accuracy: 43.84
+Validation loss: 0.017472, Accuracy: 27.40
+-------------------------------------------
+Epoch 232/499, Current Learning Rate: 0.0001
+Training loss: 0.004847, Accuracy: 42.28
+Validation loss: 0.017434, Accuracy: 27.96
+-------------------------------------------
+Epoch 233/499, Current Learning Rate: 0.0001
+Training loss: 0.004596, Accuracy: 44.47
+Validation loss: 0.016498, Accuracy: 31.89
+-------------------------------------------
+Epoch 234/499, Current Learning Rate: 0.0001
+
+Training loss: 0.004316, Accuracy: 44.40
+Validation loss: 0.017111, Accuracy: 28.19
+-------------------------------------------
+Epoch 235/499, Current Learning Rate: 0.0001
+Training loss: 0.004550, Accuracy: 43.86
+Validation loss: 0.016410, Accuracy: 27.33
+-------------------------------------------
+Epoch 236/499, Current Learning Rate: 0.0001
+Training loss: 0.004655, Accuracy: 43.28
+Validation loss: 0.017845, Accuracy: 29.19
+-------------------------------------------
+Epoch 237/499, Current Learning Rate: 0.0001
+Training loss: 0.004494, Accuracy: 43.75
+Validation loss: 0.018760, Accuracy: 28.95
+-------------------------------------------
+Epoch 238/499, Current Learning Rate: 0.0001
+Training loss: 0.004460, Accuracy: 42.98
+Validation loss: 0.017394, Accuracy: 30.12
+-------------------------------------------
+Epoch 239/499, Current Learning Rate: 0.0001
+Training loss: 0.004773, Accuracy: 42.75
+Validation loss: 0.016580, Accuracy: 31.14
+-------------------------------------------
+Epoch 240/499, Current Learning Rate: 0.0001
+Training loss: 0.004693, Accuracy: 43.57
+Validation loss: 0.017294, Accuracy: 28.89
+-------------------------------------------
+Epoch 241/499, Current Learning Rate: 0.0001
+Training loss: 0.004884, Accuracy: 42.04
+Validation loss: 0.018010, Accuracy: 28.57
+-------------------------------------------
+Epoch 242/499, Current Learning Rate: 0.0001
+Training loss: 0.004596, Accuracy: 45.14
+Validation loss: 0.020874, Accuracy: 28.12
+-------------------------------------------
+Epoch 243/499, Current Learning Rate: 0.0001
+Stored best model weights.
+Training loss: 0.004590, Accuracy: 43.71
+Validation loss: 0.015532, Accuracy: 26.37
+-------------------------------------------
+Epoch 244/499, Current Learning Rate: 0.0001
+Training loss: 0.004335, Accuracy: 45.03
+Validation loss: 0.016635, Accuracy: 26.71
+-------------------------------------------
+Epoch 245/499, Current Learning Rate: 0.0001
+Training loss: 0.004133, Accuracy: 45.56
+Validation loss: 0.019669, Accuracy: 27.38
+-------------------------------------------
+Epoch 246/499, Current Learning Rate: 0.0001
+Training loss: 0.004527, Accuracy: 43.59
+Validation loss: 0.016365, Accuracy: 25.46
+-------------------------------------------
+Epoch 247/499, Current Learning Rate: 0.0001
+Training loss: 0.004234, Accuracy: 43.90
+Validation loss: 0.019118, Accuracy: 23.78
+-------------------------------------------
+Epoch 248/499, Current Learning Rate: 0.0001
+Training loss: 0.004458, Accuracy: 43.56
+Validation loss: 0.016292, Accuracy: 24.98
+-------------------------------------------
+Epoch 249/499, Current Learning Rate: 0.0001
+Training loss: 0.004365, Accuracy: 45.40
+Validation loss: 0.017413, Accuracy: 25.40
+-------------------------------------------
+Epoch 250/499, Current Learning Rate: 0.0001
+Training loss: 0.004363, Accuracy: 44.73
+Validation loss: 0.016553, Accuracy: 29.90
+-------------------------------------------
+Epoch 251/499, Current Learning Rate: 0.0001
+Training loss: 0.004263, Accuracy: 44.37
+Validation loss: 0.015862, Accuracy: 26.24
+-------------------------------------------
+Epoch 252/499, Current Learning Rate: 0.0001
+Training loss: 0.004093, Accuracy: 44.12
+Validation loss: 0.016488, Accuracy: 27.95
+-------------------------------------------
+Epoch 253/499, Current Learning Rate: 0.0001
+Training loss: 0.003996, Accuracy: 46.19
+Validation loss: 0.017892, Accuracy: 26.22
+-------------------------------------------
+Epoch 254/499, Current Learning Rate: 0.0001
+Training loss: 0.003961, Accuracy: 45.77
+Validation loss: 0.018113, Accuracy: 30.30
+-------------------------------------------
+Epoch 255/499, Current Learning Rate: 0.0001
+Training loss: 0.004021, Accuracy: 45.45
+Validation loss: 0.016733, Accuracy: 28.18
+-------------------------------------------
+Epoch 256/499, Current Learning Rate: 0.0001
+Training loss: 0.003785, Accuracy: 47.50
+Validation loss: 0.015616, Accuracy: 29.97
+-------------------------------------------
+Epoch 257/499, Current Learning Rate: 0.0001
+Training loss: 0.003642, Accuracy: 46.51
+Validation loss: 0.016646, Accuracy: 29.69
+-------------------------------------------
+Epoch 258/499, Current Learning Rate: 0.0001
+Stored best model weights.
+Training loss: 0.004624, Accuracy: 42.58
+Validation loss: 0.015110, Accuracy: 27.71
+-------------------------------------------
+Epoch 259/499, Current Learning Rate: 0.0001
+Training loss: 0.004102, Accuracy: 45.07
+Validation loss: 0.016348, Accuracy: 27.58
+-------------------------------------------
+Epoch 260/499, Current Learning Rate: 0.0001
+Training loss: 0.004146, Accuracy: 45.34
+Validation loss: 0.015879, Accuracy: 30.72
+-------------------------------------------
+Epoch 261/499, Current Learning Rate: 0.0001
+Training loss: 0.003775, Accuracy: 46.03
+Validation loss: 0.015899, Accuracy: 27.18
+-------------------------------------------
+Epoch 262/499, Current Learning Rate: 0.0001
+Training loss: 0.003577, Accuracy: 47.26
+Validation loss: 0.016059, Accuracy: 29.08
+-------------------------------------------
+Epoch 263/499, Current Learning Rate: 0.0001
+Training loss: 0.003812, Accuracy: 46.12
+Validation loss: 0.016967, Accuracy: 29.89
+-------------------------------------------
+Epoch 264/499, Current Learning Rate: 0.0001
+Training loss: 0.003738, Accuracy: 47.91
+Validation loss: 0.015399, Accuracy: 27.43
+-------------------------------------------
+Epoch 265/499, Current Learning Rate: 0.0001
+Training loss: 0.004138, Accuracy: 44.60
+Validation loss: 0.018661, Accuracy: 27.58
+-------------------------------------------
+Epoch 266/499, Current Learning Rate: 0.0001
+Training loss: 0.003629, Accuracy: 47.89
+Validation loss: 0.016369, Accuracy: 30.06
+-------------------------------------------
+Epoch 267/499, Current Learning Rate: 0.0001
+Training loss: 0.003434, Accuracy: 47.83
+Validation loss: 0.015192, Accuracy: 30.74
+-------------------------------------------
+Epoch 268/499, Current Learning Rate: 0.0001
+Training loss: 0.003637, Accuracy: 47.63
+Validation loss: 0.017221, Accuracy: 29.50
+-------------------------------------------
+Epoch 269/499, Current Learning Rate: 0.0001
+Training loss: 0.003201, Accuracy: 48.16
+Validation loss: 0.015600, Accuracy: 31.33
+-------------------------------------------
+Epoch 270/499, Current Learning Rate: 0.0001
+Training loss: 0.003813, Accuracy: 47.57
+Validation loss: 0.016380, Accuracy: 27.50
+-------------------------------------------
+Epoch 271/499, Current Learning Rate: 0.0001
+Training loss: 0.003841, Accuracy: 46.16
+Validation loss: 0.015718, Accuracy: 32.08
+-------------------------------------------
+Epoch 272/499, Current Learning Rate: 0.0001
+Training loss: 0.003382, Accuracy: 47.90
+Validation loss: 0.015276, Accuracy: 30.20
+-------------------------------------------
+Epoch 273/499, Current Learning Rate: 0.0001
+Training loss: 0.003313, Accuracy: 49.77
+Validation loss: 0.016504, Accuracy: 31.57
+-------------------------------------------
+Epoch 274/499, Current Learning Rate: 0.0001
+Training loss: 0.003230, Accuracy: 49.29
+Validation loss: 0.015175, Accuracy: 32.21
+-------------------------------------------
+Epoch 275/499, Current Learning Rate: 0.0001
+Training loss: 0.003250, Accuracy: 48.50
+Validation loss: 0.015131, Accuracy: 30.05
+-------------------------------------------
+Epoch 276/499, Current Learning Rate: 0.0001
+Training loss: 0.003551, Accuracy: 47.08
+Validation loss: 0.015288, Accuracy: 30.79
+-------------------------------------------
+Epoch 277/499, Current Learning Rate: 0.0001
+Training loss: 0.003494, Accuracy: 47.83
+Validation loss: 0.016517, Accuracy: 30.99
+-------------------------------------------
+Epoch 278/499, Current Learning Rate: 0.0001
+Training loss: 0.003707, Accuracy: 46.17
+Validation loss: 0.015298, Accuracy: 32.24
+-------------------------------------------
+Epoch 279/499, Current Learning Rate: 0.0001
+Epoch   280: reducing learning rate of group 0 to 5.0000e-05.
+Loading best  model weights...
+Training loss: 0.003302, Accuracy: 48.40
+Validation loss: 0.015426, Accuracy: 32.05
+-------------------------------------------
+Epoch 280/499, Current Learning Rate: 5e-05
+Training loss: 0.003368, Accuracy: 49.07
+Validation loss: 0.015408, Accuracy: 31.05
+-------------------------------------------
+Epoch 281/499, Current Learning Rate: 5e-05
+
+Training loss: 0.003209, Accuracy: 49.12
+Validation loss: 0.017223, Accuracy: 27.93
+-------------------------------------------
+Epoch 282/499, Current Learning Rate: 5e-05
+Stored best model weights.
+Training loss: 0.003224, Accuracy: 49.52
+Validation loss: 0.014829, Accuracy: 28.87
+-------------------------------------------
+Epoch 283/499, Current Learning Rate: 5e-05
+Training loss: 0.003142, Accuracy: 49.72
+Validation loss: 0.016344, Accuracy: 28.80
+-------------------------------------------
+Epoch 284/499, Current Learning Rate: 5e-05
+Training loss: 0.003132, Accuracy: 49.04
+Validation loss: 0.015059, Accuracy: 29.42
+-------------------------------------------
+Epoch 285/499, Current Learning Rate: 5e-05
+Training loss: 0.003100, Accuracy: 49.44
+Validation loss: 0.015053, Accuracy: 30.82
+-------------------------------------------
+Epoch 286/499, Current Learning Rate: 5e-05
+Training loss: 0.003098, Accuracy: 49.93
+Validation loss: 0.017098, Accuracy: 29.58
+-------------------------------------------
+Epoch 287/499, Current Learning Rate: 5e-05
+Training loss: 0.003169, Accuracy: 50.13
+Validation loss: 0.016233, Accuracy: 28.59
+-------------------------------------------
+Epoch 288/499, Current Learning Rate: 5e-05
+Training loss: 0.003351, Accuracy: 48.70
+Validation loss: 0.016608, Accuracy: 29.55
+-------------------------------------------
+Epoch 289/499, Current Learning Rate: 5e-05
+Training loss: 0.002980, Accuracy: 50.56
+Validation loss: 0.016232, Accuracy: 30.06
+-------------------------------------------
+Epoch 290/499, Current Learning Rate: 5e-05
+Training loss: 0.003195, Accuracy: 48.86
+Validation loss: 0.016330, Accuracy: 31.69
+-------------------------------------------
+Epoch 291/499, Current Learning Rate: 5e-05
+Training loss: 0.002961, Accuracy: 50.43
+Validation loss: 0.015950, Accuracy: 30.09
+-------------------------------------------
+Epoch 292/499, Current Learning Rate: 5e-05
+Training loss: 0.003288, Accuracy: 48.86
+Validation loss: 0.015458, Accuracy: 29.46
+-------------------------------------------
+Epoch 293/499, Current Learning Rate: 5e-05
+Training loss: 0.003297, Accuracy: 48.85
+Validation loss: 0.015350, Accuracy: 30.89
+-------------------------------------------
+Epoch 294/499, Current Learning Rate: 5e-05
+Training loss: 0.003252, Accuracy: 48.31
+Validation loss: 0.016091, Accuracy: 29.21
+-------------------------------------------
+Epoch 295/499, Current Learning Rate: 5e-05
+Training loss: 0.003163, Accuracy: 48.83
+Validation loss: 0.016548, Accuracy: 29.36
+-------------------------------------------
+Epoch 296/499, Current Learning Rate: 5e-05
+Training loss: 0.003100, Accuracy: 49.68
+Validation loss: 0.015929, Accuracy: 28.53
+-------------------------------------------
+Epoch 297/499, Current Learning Rate: 5e-05
+Training loss: 0.003177, Accuracy: 49.26
+Validation loss: 0.016800, Accuracy: 29.69
+-------------------------------------------
+Epoch 298/499, Current Learning Rate: 5e-05
+Training loss: 0.003122, Accuracy: 50.32
+Validation loss: 0.015597, Accuracy: 30.09
+-------------------------------------------
+Epoch 299/499, Current Learning Rate: 5e-05
+Training loss: 0.003208, Accuracy: 49.36
+Validation loss: 0.016612, Accuracy: 30.78
+-------------------------------------------
+Epoch 300/499, Current Learning Rate: 5e-05
+Training loss: 0.002877, Accuracy: 51.58
+Validation loss: 0.016478, Accuracy: 32.08
+-------------------------------------------
+Epoch 301/499, Current Learning Rate: 5e-05
+Training loss: 0.003046, Accuracy: 50.04
+Validation loss: 0.015104, Accuracy: 29.75
+-------------------------------------------
+Epoch 302/499, Current Learning Rate: 5e-05
+Training loss: 0.002817, Accuracy: 51.03
+Validation loss: 0.015723, Accuracy: 27.88
+-------------------------------------------
+Epoch 303/499, Current Learning Rate: 5e-05
+Epoch   304: reducing learning rate of group 0 to 2.5000e-05.
+Loading best  model weights...
+Training loss: 0.003133, Accuracy: 49.16
+Validation loss: 0.015487, Accuracy: 30.07
+-------------------------------------------
+Epoch 304/499, Current Learning Rate: 2.5e-05
+Training loss: 0.003085, Accuracy: 49.95
+Validation loss: 0.015562, Accuracy: 29.43
+-------------------------------------------
+Epoch 305/499, Current Learning Rate: 2.5e-05
+Training loss: 0.003062, Accuracy: 50.67
+Validation loss: 0.016147, Accuracy: 29.02
+-------------------------------------------
+Epoch 306/499, Current Learning Rate: 2.5e-05
+Training loss: 0.003299, Accuracy: 51.13
+Validation loss: 0.016447, Accuracy: 30.93
+-------------------------------------------
+Epoch 307/499, Current Learning Rate: 2.5e-05
+Training loss: 0.003141, Accuracy: 50.44
+Validation loss: 0.016837, Accuracy: 29.17
+-------------------------------------------
+Epoch 308/499, Current Learning Rate: 2.5e-05
+Training loss: 0.002827, Accuracy: 51.64
+Validation loss: 0.015088, Accuracy: 29.36
+-------------------------------------------
+Epoch 309/499, Current Learning Rate: 2.5e-05
+Training loss: 0.003220, Accuracy: 49.43
+Validation loss: 0.015874, Accuracy: 29.39
+-------------------------------------------
+Epoch 310/499, Current Learning Rate: 2.5e-05
+Training loss: 0.002882, Accuracy: 51.08
+Validation loss: 0.016257, Accuracy: 28.70
+-------------------------------------------
+Epoch 311/499, Current Learning Rate: 2.5e-05
+Training loss: 0.002937, Accuracy: 49.66
+Validation loss: 0.015331, Accuracy: 29.91
+-------------------------------------------
+Epoch 312/499, Current Learning Rate: 2.5e-05
+Training loss: 0.003093, Accuracy: 50.86
+Validation loss: 0.016152, Accuracy: 30.63
+-------------------------------------------
+Epoch 313/499, Current Learning Rate: 2.5e-05
+Training loss: 0.002988, Accuracy: 50.86
+Validation loss: 0.015008, Accuracy: 31.34
+-------------------------------------------
+Epoch 314/499, Current Learning Rate: 2.5e-05
+Training loss: 0.002792, Accuracy: 51.57
+Validation loss: 0.014870, Accuracy: 30.90
+-------------------------------------------
+Epoch 315/499, Current Learning Rate: 2.5e-05
+Training loss: 0.002930, Accuracy: 50.36
+Validation loss: 0.015454, Accuracy: 30.58
+-------------------------------------------
+Epoch 316/499, Current Learning Rate: 2.5e-05
+Training loss: 0.003003, Accuracy: 50.92
+Validation loss: 0.016154, Accuracy: 30.49
+-------------------------------------------
+Epoch 317/499, Current Learning Rate: 2.5e-05
+Training loss: 0.003021, Accuracy: 50.48
+Validation loss: 0.016392, Accuracy: 30.44
+-------------------------------------------
+Epoch 318/499, Current Learning Rate: 2.5e-05
+Training loss: 0.003023, Accuracy: 51.34
+Validation loss: 0.015638, Accuracy: 30.19
+-------------------------------------------
+Epoch 319/499, Current Learning Rate: 2.5e-05
+Training loss: 0.002868, Accuracy: 51.58
+Validation loss: 0.015710, Accuracy: 31.50
+-------------------------------------------
+Epoch 320/499, Current Learning Rate: 2.5e-05
+Training loss: 0.002863, Accuracy: 51.11
+Validation loss: 0.015674, Accuracy: 31.68
+-------------------------------------------
+Epoch 321/499, Current Learning Rate: 2.5e-05
+Training loss: 0.002749, Accuracy: 51.27
+Validation loss: 0.016488, Accuracy: 29.80
+-------------------------------------------
+Epoch 322/499, Current Learning Rate: 2.5e-05
+Training loss: 0.002873, Accuracy: 51.94
+Validation loss: 0.015677, Accuracy: 31.62
+-------------------------------------------
+Epoch 323/499, Current Learning Rate: 2.5e-05
+Training loss: 0.002830, Accuracy: 52.00
+Validation loss: 0.015559, Accuracy: 29.75
+-------------------------------------------
+Epoch 324/499, Current Learning Rate: 2.5e-05
+Epoch   325: reducing learning rate of group 0 to 1.2500e-05.
+Loading best  model weights...
+Training loss: 0.003037, Accuracy: 51.17
+Validation loss: 0.015422, Accuracy: 30.46
+-------------------------------------------
+Epoch 325/499, Current Learning Rate: 1.25e-05
+Training loss: 0.003021, Accuracy: 50.35
+Validation loss: 0.016194, Accuracy: 31.60
+-------------------------------------------
+Epoch 326/499, Current Learning Rate: 1.25e-05
+Training loss: 0.003096, Accuracy: 52.11
+Validation loss: 0.015398, Accuracy: 31.79
+-------------------------------------------
+Epoch 327/499, Current Learning Rate: 1.25e-05
+Training loss: 0.002985, Accuracy: 50.92
+Validation loss: 0.015947, Accuracy: 30.68
+-------------------------------------------
+Epoch 328/499, Current Learning Rate: 1.25e-05
+
+Training loss: 0.003155, Accuracy: 50.78
+Validation loss: 0.016303, Accuracy: 30.22
+-------------------------------------------
+Epoch 329/499, Current Learning Rate: 1.25e-05
+Training loss: 0.003001, Accuracy: 51.01
+Validation loss: 0.015772, Accuracy: 29.50
+-------------------------------------------
+Epoch 330/499, Current Learning Rate: 1.25e-05
+Training loss: 0.002766, Accuracy: 52.67
+Validation loss: 0.015746, Accuracy: 30.72
+-------------------------------------------
+Epoch 331/499, Current Learning Rate: 1.25e-05
+Training loss: 0.003035, Accuracy: 50.86
+Validation loss: 0.015700, Accuracy: 29.80
+-------------------------------------------
+Epoch 332/499, Current Learning Rate: 1.25e-05
+Training loss: 0.002871, Accuracy: 51.51
+Validation loss: 0.016057, Accuracy: 30.55
+-------------------------------------------
+Epoch 333/499, Current Learning Rate: 1.25e-05
+Training loss: 0.003006, Accuracy: 50.24
+Validation loss: 0.016001, Accuracy: 29.20
+-------------------------------------------
+Epoch 334/499, Current Learning Rate: 1.25e-05
+Training loss: 0.002905, Accuracy: 50.98
+Validation loss: 0.015839, Accuracy: 29.66
+-------------------------------------------
+Epoch 335/499, Current Learning Rate: 1.25e-05
+Training loss: 0.003009, Accuracy: 51.20
+Validation loss: 0.015433, Accuracy: 30.10
+-------------------------------------------
+Epoch 336/499, Current Learning Rate: 1.25e-05
+Training loss: 0.002983, Accuracy: 51.72
+Validation loss: 0.016081, Accuracy: 31.00
+-------------------------------------------
+Epoch 337/499, Current Learning Rate: 1.25e-05
+Training loss: 0.003158, Accuracy: 51.00
+Validation loss: 0.015807, Accuracy: 30.56
+-------------------------------------------
+Epoch 338/499, Current Learning Rate: 1.25e-05
+Training loss: 0.003069, Accuracy: 52.01
+Validation loss: 0.015610, Accuracy: 30.12
+-------------------------------------------
+Epoch 339/499, Current Learning Rate: 1.25e-05
+Training loss: 0.002875, Accuracy: 51.64
+Validation loss: 0.015257, Accuracy: 30.13
+-------------------------------------------
+Epoch 340/499, Current Learning Rate: 1.25e-05
+Training loss: 0.002854, Accuracy: 51.91
+Validation loss: 0.015543, Accuracy: 30.77
+-------------------------------------------
+Epoch 341/499, Current Learning Rate: 1.25e-05
+Training loss: 0.002856, Accuracy: 51.50
+Validation loss: 0.015780, Accuracy: 29.95
+-------------------------------------------
+Epoch 342/499, Current Learning Rate: 1.25e-05
+Training loss: 0.002892, Accuracy: 51.08
+Validation loss: 0.015418, Accuracy: 29.97
+-------------------------------------------
+Epoch 343/499, Current Learning Rate: 1.25e-05
+Training loss: 0.002906, Accuracy: 52.11
+Validation loss: 0.015868, Accuracy: 29.86
+-------------------------------------------
+Epoch 344/499, Current Learning Rate: 1.25e-05
+Training loss: 0.002546, Accuracy: 52.55
+Validation loss: 0.015543, Accuracy: 29.39
+-------------------------------------------
+Epoch 345/499, Current Learning Rate: 1.25e-05
+Epoch   346: reducing learning rate of group 0 to 6.2500e-06.
+Loading best  model weights...
+Training loss: 0.002738, Accuracy: 52.12
+Validation loss: 0.016094, Accuracy: 30.01
+-------------------------------------------
+Epoch 346/499, Current Learning Rate: 6.25e-06
+Training loss: 0.003275, Accuracy: 50.53
+Validation loss: 0.015356, Accuracy: 30.62
+-------------------------------------------
+Epoch 347/499, Current Learning Rate: 6.25e-06
+Training loss: 0.002921, Accuracy: 51.59
+Validation loss: 0.016275, Accuracy: 30.46
+-------------------------------------------
+Epoch 348/499, Current Learning Rate: 6.25e-06
+Training loss: 0.002927, Accuracy: 52.07
+Validation loss: 0.015763, Accuracy: 30.88
+-------------------------------------------
+Epoch 349/499, Current Learning Rate: 6.25e-06
+Training loss: 0.003101, Accuracy: 51.50
+Validation loss: 0.016262, Accuracy: 29.43
+-------------------------------------------
+Epoch 350/499, Current Learning Rate: 6.25e-06
+Training loss: 0.002939, Accuracy: 51.83
+Validation loss: 0.015868, Accuracy: 30.51
+-------------------------------------------
+Epoch 351/499, Current Learning Rate: 6.25e-06
+Training loss: 0.002800, Accuracy: 51.86
+Validation loss: 0.015886, Accuracy: 29.58
+-------------------------------------------
+Epoch 352/499, Current Learning Rate: 6.25e-06
+Training loss: 0.002890, Accuracy: 52.04
+Validation loss: 0.015898, Accuracy: 30.83
+-------------------------------------------
+Epoch 353/499, Current Learning Rate: 6.25e-06
+Training loss: 0.002680, Accuracy: 52.58
+Validation loss: 0.015633, Accuracy: 30.43
+-------------------------------------------
+Epoch 354/499, Current Learning Rate: 6.25e-06
+Training loss: 0.002896, Accuracy: 51.40
+Validation loss: 0.015904, Accuracy: 30.63
+-------------------------------------------
+Epoch 355/499, Current Learning Rate: 6.25e-06
+Training loss: 0.002930, Accuracy: 51.86
+Validation loss: 0.015626, Accuracy: 31.26
+-------------------------------------------
+Epoch 356/499, Current Learning Rate: 6.25e-06
+Training loss: 0.003074, Accuracy: 51.07
+Validation loss: 0.015795, Accuracy: 30.48
+-------------------------------------------
+Epoch 357/499, Current Learning Rate: 6.25e-06
+Training loss: 0.002937, Accuracy: 51.67
+Validation loss: 0.015684, Accuracy: 30.80
+-------------------------------------------
+Epoch 358/499, Current Learning Rate: 6.25e-06
+Training loss: 0.002712, Accuracy: 53.07
+Validation loss: 0.015981, Accuracy: 30.79
+-------------------------------------------
+Epoch 359/499, Current Learning Rate: 6.25e-06
+Training loss: 0.002940, Accuracy: 51.68
+Validation loss: 0.015767, Accuracy: 30.35
+-------------------------------------------
+Epoch 360/499, Current Learning Rate: 6.25e-06
+Training loss: 0.003076, Accuracy: 51.51
+Validation loss: 0.015891, Accuracy: 31.09
+-------------------------------------------
+Epoch 361/499, Current Learning Rate: 6.25e-06
+Training loss: 0.002883, Accuracy: 52.13
+Validation loss: 0.015598, Accuracy: 30.64
+-------------------------------------------
+Epoch 362/499, Current Learning Rate: 6.25e-06
+Training loss: 0.002686, Accuracy: 52.47
+Validation loss: 0.016024, Accuracy: 30.30
+-------------------------------------------
+Epoch 363/499, Current Learning Rate: 6.25e-06
+Training loss: 0.002735, Accuracy: 51.69
+Validation loss: 0.015549, Accuracy: 30.28
+-------------------------------------------
+Epoch 364/499, Current Learning Rate: 6.25e-06
+Training loss: 0.002648, Accuracy: 53.42
+Validation loss: 0.015761, Accuracy: 30.99
+-------------------------------------------
+Epoch 365/499, Current Learning Rate: 6.25e-06
+Training loss: 0.002814, Accuracy: 52.45
+Validation loss: 0.015767, Accuracy: 30.11
+-------------------------------------------
+Epoch 366/499, Current Learning Rate: 6.25e-06
+Epoch   367: reducing learning rate of group 0 to 3.1250e-06.
+Loading best  model weights...
+Training loss: 0.002930, Accuracy: 52.01
+Validation loss: 0.015646, Accuracy: 30.39
+-------------------------------------------
+Epoch 367/499, Current Learning Rate: 3.125e-06
+Training loss: 0.003050, Accuracy: 50.03
+Validation loss: 0.015424, Accuracy: 30.88
+-------------------------------------------
+Epoch 368/499, Current Learning Rate: 3.125e-06
+Training loss: 0.003106, Accuracy: 50.57
+Validation loss: 0.015602, Accuracy: 30.87
+-------------------------------------------
+Epoch 369/499, Current Learning Rate: 3.125e-06
+Training loss: 0.002798, Accuracy: 52.25
+Validation loss: 0.015628, Accuracy: 30.61
+-------------------------------------------
+Epoch 370/499, Current Learning Rate: 3.125e-06
+Training loss: 0.002950, Accuracy: 51.82
+Validation loss: 0.015766, Accuracy: 30.49
+-------------------------------------------
+Epoch 371/499, Current Learning Rate: 3.125e-06
+Training loss: 0.002883, Accuracy: 51.83
+Validation loss: 0.015767, Accuracy: 30.27
+-------------------------------------------
+Epoch 372/499, Current Learning Rate: 3.125e-06
+Training loss: 0.002920, Accuracy: 51.93
+Validation loss: 0.015757, Accuracy: 30.30
+-------------------------------------------
+Epoch 373/499, Current Learning Rate: 3.125e-06
+Training loss: 0.003133, Accuracy: 50.81
+Validation loss: 0.015922, Accuracy: 30.51
+-------------------------------------------
+Epoch 374/499, Current Learning Rate: 3.125e-06
+
+Training loss: 0.002677, Accuracy: 52.49
+Validation loss: 0.015950, Accuracy: 29.93
+-------------------------------------------
+Epoch 375/499, Current Learning Rate: 3.125e-06
+Training loss: 0.002720, Accuracy: 53.30
+Validation loss: 0.015957, Accuracy: 30.03
+-------------------------------------------
+Epoch 376/499, Current Learning Rate: 3.125e-06
+Training loss: 0.002749, Accuracy: 52.45
+Validation loss: 0.015992, Accuracy: 30.15
+-------------------------------------------
+Epoch 377/499, Current Learning Rate: 3.125e-06
+Training loss: 0.002689, Accuracy: 52.19
+Validation loss: 0.015900, Accuracy: 29.63
+-------------------------------------------
+Epoch 378/499, Current Learning Rate: 3.125e-06
+Training loss: 0.002897, Accuracy: 52.10
+Validation loss: 0.015975, Accuracy: 30.11
+-------------------------------------------
+Epoch 379/499, Current Learning Rate: 3.125e-06
+Training loss: 0.002848, Accuracy: 51.92
+Validation loss: 0.016075, Accuracy: 29.64
+-------------------------------------------
+Epoch 380/499, Current Learning Rate: 3.125e-06
+Training loss: 0.002819, Accuracy: 52.02
+Validation loss: 0.016114, Accuracy: 30.19
+-------------------------------------------
+Epoch 381/499, Current Learning Rate: 3.125e-06
+Training loss: 0.002738, Accuracy: 52.32
+Validation loss: 0.015919, Accuracy: 29.96
+-------------------------------------------
+Epoch 382/499, Current Learning Rate: 3.125e-06
+Training loss: 0.002987, Accuracy: 51.02
+Validation loss: 0.015520, Accuracy: 29.98
+-------------------------------------------
+Epoch 383/499, Current Learning Rate: 3.125e-06
+Training loss: 0.002770, Accuracy: 51.70
+Validation loss: 0.015694, Accuracy: 30.46
+-------------------------------------------
+Epoch 384/499, Current Learning Rate: 3.125e-06
+Training loss: 0.002933, Accuracy: 52.29
+Validation loss: 0.015906, Accuracy: 30.85
+-------------------------------------------
+Epoch 385/499, Current Learning Rate: 3.125e-06
+Training loss: 0.002769, Accuracy: 51.93
+Validation loss: 0.015685, Accuracy: 30.23
+-------------------------------------------
+Epoch 386/499, Current Learning Rate: 3.125e-06
+Training loss: 0.002841, Accuracy: 52.26
+Validation loss: 0.015562, Accuracy: 30.04
+-------------------------------------------
+Epoch 387/499, Current Learning Rate: 3.125e-06
+Epoch   388: reducing learning rate of group 0 to 1.5625e-06.
+Loading best  model weights...
+Training loss: 0.003008, Accuracy: 51.97
+Validation loss: 0.015378, Accuracy: 30.44
+-------------------------------------------
+Epoch 388/499, Current Learning Rate: 1.5625e-06
+Training loss: 0.003314, Accuracy: 50.39
+Validation loss: 0.015233, Accuracy: 30.61
+-------------------------------------------
+Epoch 389/499, Current Learning Rate: 1.5625e-06
+Training loss: 0.003107, Accuracy: 50.41
+Validation loss: 0.015432, Accuracy: 30.55
+-------------------------------------------
+Epoch 390/499, Current Learning Rate: 1.5625e-06
+Training loss: 0.002999, Accuracy: 50.81
+Validation loss: 0.015623, Accuracy: 30.62
+-------------------------------------------
+Epoch 391/499, Current Learning Rate: 1.5625e-06
+Training loss: 0.003043, Accuracy: 50.85
+Validation loss: 0.015741, Accuracy: 30.57
+-------------------------------------------
+Epoch 392/499, Current Learning Rate: 1.5625e-06
+Training loss: 0.003048, Accuracy: 51.69
+Validation loss: 0.015650, Accuracy: 30.60
+-------------------------------------------
+Epoch 393/499, Current Learning Rate: 1.5625e-06
+Training loss: 0.003173, Accuracy: 50.65
+Validation loss: 0.015672, Accuracy: 30.34
+-------------------------------------------
+Epoch 394/499, Current Learning Rate: 1.5625e-06
+Training loss: 0.002944, Accuracy: 51.17
+Validation loss: 0.015827, Accuracy: 30.40
+-------------------------------------------
+Epoch 395/499, Current Learning Rate: 1.5625e-06
+Training loss: 0.002989, Accuracy: 51.52
+Validation loss: 0.015740, Accuracy: 30.37
+-------------------------------------------
+Epoch 396/499, Current Learning Rate: 1.5625e-06
+Training loss: 0.003066, Accuracy: 51.89
+Validation loss: 0.015568, Accuracy: 30.48
+-------------------------------------------
+Epoch 397/499, Current Learning Rate: 1.5625e-06
+Training loss: 0.002878, Accuracy: 51.05
+Validation loss: 0.015725, Accuracy: 30.62
+-------------------------------------------
+Epoch 398/499, Current Learning Rate: 1.5625e-06
+Training loss: 0.002765, Accuracy: 51.78
+Validation loss: 0.015568, Accuracy: 30.59
+-------------------------------------------
+Epoch 399/499, Current Learning Rate: 1.5625e-06
+Training loss: 0.002792, Accuracy: 52.33
+Validation loss: 0.015614, Accuracy: 30.48
+-------------------------------------------
+Epoch 400/499, Current Learning Rate: 1.5625e-06
+Training loss: 0.002947, Accuracy: 52.68
+Validation loss: 0.015711, Accuracy: 30.49
+-------------------------------------------
+Epoch 401/499, Current Learning Rate: 1.5625e-06
+Training loss: 0.002920, Accuracy: 51.54
+Validation loss: 0.015540, Accuracy: 30.27
+-------------------------------------------
+Epoch 402/499, Current Learning Rate: 1.5625e-06
+Training loss: 0.002863, Accuracy: 52.13
+Validation loss: 0.015785, Accuracy: 30.34
+-------------------------------------------
+Epoch 403/499, Current Learning Rate: 1.5625e-06
+Training loss: 0.002732, Accuracy: 51.79
+Validation loss: 0.015855, Accuracy: 30.15
+-------------------------------------------
+Epoch 404/499, Current Learning Rate: 1.5625e-06
+Training loss: 0.002933, Accuracy: 51.25
+Validation loss: 0.015704, Accuracy: 30.02
+-------------------------------------------
+Epoch 405/499, Current Learning Rate: 1.5625e-06
+Training loss: 0.002953, Accuracy: 50.70
+Validation loss: 0.015918, Accuracy: 30.37
+-------------------------------------------
+Epoch 406/499, Current Learning Rate: 1.5625e-06
+Training loss: 0.002804, Accuracy: 52.22
+Validation loss: 0.015753, Accuracy: 30.67
+-------------------------------------------
+Epoch 407/499, Current Learning Rate: 1.5625e-06
+Training loss: 0.002772, Accuracy: 52.25
+Validation loss: 0.015661, Accuracy: 30.10
+-------------------------------------------
+Epoch 408/499, Current Learning Rate: 1.5625e-06
+Epoch   409: reducing learning rate of group 0 to 7.8125e-07.
+Loading best  model weights...
+Training loss: 0.002907, Accuracy: 51.82
+Validation loss: 0.015936, Accuracy: 30.29
+-------------------------------------------
+Epoch 409/499, Current Learning Rate: 7.8125e-07
+Training loss: 0.003381, Accuracy: 50.47
+Validation loss: 0.015274, Accuracy: 30.47
+-------------------------------------------
+Epoch 410/499, Current Learning Rate: 7.8125e-07
+Training loss: 0.003310, Accuracy: 50.04
+Validation loss: 0.015474, Accuracy: 30.68
+-------------------------------------------
+Epoch 411/499, Current Learning Rate: 7.8125e-07
+Training loss: 0.002985, Accuracy: 51.04
+Validation loss: 0.015555, Accuracy: 30.52
+-------------------------------------------
+Epoch 412/499, Current Learning Rate: 7.8125e-07
+Training loss: 0.003140, Accuracy: 51.04
+Validation loss: 0.015665, Accuracy: 30.40
+-------------------------------------------
+Epoch 413/499, Current Learning Rate: 7.8125e-07
+Training loss: 0.003012, Accuracy: 50.77
+Validation loss: 0.015639, Accuracy: 30.37
+-------------------------------------------
+Epoch 414/499, Current Learning Rate: 7.8125e-07
+Training loss: 0.002995, Accuracy: 50.99
+Validation loss: 0.015674, Accuracy: 30.53
+-------------------------------------------
+Epoch 415/499, Current Learning Rate: 7.8125e-07
+Training loss: 0.002896, Accuracy: 51.50
+Validation loss: 0.015602, Accuracy: 30.55
+-------------------------------------------
+Epoch 416/499, Current Learning Rate: 7.8125e-07
+Training loss: 0.002882, Accuracy: 51.92
+Validation loss: 0.015646, Accuracy: 30.59
+-------------------------------------------
+Epoch 417/499, Current Learning Rate: 7.8125e-07
+Training loss: 0.002980, Accuracy: 51.28
+Validation loss: 0.015805, Accuracy: 30.81
+-------------------------------------------
+Epoch 418/499, Current Learning Rate: 7.8125e-07
+Training loss: 0.003100, Accuracy: 50.78
+Validation loss: 0.015792, Accuracy: 30.86
+-------------------------------------------
+Epoch 419/499, Current Learning Rate: 7.8125e-07
+Training loss: 0.003083, Accuracy: 51.14
+Validation loss: 0.015772, Accuracy: 30.58
+-------------------------------------------
+Epoch 420/499, Current Learning Rate: 7.8125e-07
+
+Training loss: 0.002972, Accuracy: 50.95
+Validation loss: 0.015819, Accuracy: 30.52
+-------------------------------------------
+Epoch 421/499, Current Learning Rate: 7.8125e-07
+Training loss: 0.002880, Accuracy: 51.75
+Validation loss: 0.015673, Accuracy: 30.70
+-------------------------------------------
+Epoch 422/499, Current Learning Rate: 7.8125e-07
+Training loss: 0.003035, Accuracy: 52.22
+Validation loss: 0.015617, Accuracy: 30.63
+-------------------------------------------
+Epoch 423/499, Current Learning Rate: 7.8125e-07
+Training loss: 0.002911, Accuracy: 51.86
+Validation loss: 0.015781, Accuracy: 30.89
+-------------------------------------------
+Epoch 424/499, Current Learning Rate: 7.8125e-07
+Training loss: 0.003140, Accuracy: 50.89
+Validation loss: 0.015677, Accuracy: 30.92
+-------------------------------------------
+Epoch 425/499, Current Learning Rate: 7.8125e-07
+Training loss: 0.002993, Accuracy: 51.57
+Validation loss: 0.015675, Accuracy: 30.97
+-------------------------------------------
+Epoch 426/499, Current Learning Rate: 7.8125e-07
+Training loss: 0.002819, Accuracy: 51.67
+Validation loss: 0.015661, Accuracy: 30.51
+-------------------------------------------
+Epoch 427/499, Current Learning Rate: 7.8125e-07
+Training loss: 0.002793, Accuracy: 51.52
+Validation loss: 0.015676, Accuracy: 30.50
+-------------------------------------------
+Epoch 428/499, Current Learning Rate: 7.8125e-07
+Training loss: 0.002872, Accuracy: 51.95
+Validation loss: 0.015647, Accuracy: 30.49
+-------------------------------------------
+Epoch 429/499, Current Learning Rate: 7.8125e-07
+Epoch   430: reducing learning rate of group 0 to 3.9063e-07.
+Loading best  model weights...
+Training loss: 0.003099, Accuracy: 51.42
+Validation loss: 0.015757, Accuracy: 30.73
+-------------------------------------------
+Epoch 430/499, Current Learning Rate: 3.90625e-07
+Training loss: 0.003557, Accuracy: 49.42
+Validation loss: 0.015037, Accuracy: 30.07
+-------------------------------------------
+Epoch 431/499, Current Learning Rate: 3.90625e-07
+Training loss: 0.003238, Accuracy: 49.51
+Validation loss: 0.015229, Accuracy: 30.54
+-------------------------------------------
+Epoch 432/499, Current Learning Rate: 3.90625e-07
+Training loss: 0.003665, Accuracy: 49.00
+Validation loss: 0.015294, Accuracy: 30.53
+-------------------------------------------
+Epoch 433/499, Current Learning Rate: 3.90625e-07
+Training loss: 0.003164, Accuracy: 51.41
+Validation loss: 0.015357, Accuracy: 30.54
+-------------------------------------------
+Epoch 434/499, Current Learning Rate: 3.90625e-07
+Training loss: 0.002966, Accuracy: 51.38
+Validation loss: 0.015420, Accuracy: 30.73
+-------------------------------------------
+Epoch 435/499, Current Learning Rate: 3.90625e-07
+Training loss: 0.003157, Accuracy: 50.51
+Validation loss: 0.015465, Accuracy: 30.66
+-------------------------------------------
+Epoch 436/499, Current Learning Rate: 3.90625e-07
+Training loss: 0.003112, Accuracy: 50.63
+Validation loss: 0.015479, Accuracy: 30.60
+-------------------------------------------
+Epoch 437/499, Current Learning Rate: 3.90625e-07
+Training loss: 0.003033, Accuracy: 50.68
+Validation loss: 0.015531, Accuracy: 30.64
+-------------------------------------------
+Epoch 438/499, Current Learning Rate: 3.90625e-07
+Training loss: 0.002932, Accuracy: 51.26
+Validation loss: 0.015540, Accuracy: 30.58
+-------------------------------------------
+Epoch 439/499, Current Learning Rate: 3.90625e-07
+Training loss: 0.002998, Accuracy: 51.48
+Validation loss: 0.015589, Accuracy: 30.64
+-------------------------------------------
+Epoch 440/499, Current Learning Rate: 3.90625e-07
+Training loss: 0.002972, Accuracy: 51.36
+Validation loss: 0.015664, Accuracy: 30.72
+-------------------------------------------
+Epoch 441/499, Current Learning Rate: 3.90625e-07
+Training loss: 0.002889, Accuracy: 51.23
+Validation loss: 0.015711, Accuracy: 30.60
+-------------------------------------------
+Epoch 442/499, Current Learning Rate: 3.90625e-07
+Training loss: 0.002933, Accuracy: 50.95
+Validation loss: 0.015647, Accuracy: 30.46
+-------------------------------------------
+Epoch 443/499, Current Learning Rate: 3.90625e-07
+Training loss: 0.003335, Accuracy: 49.94
+Validation loss: 0.015629, Accuracy: 30.49
+-------------------------------------------
+Epoch 444/499, Current Learning Rate: 3.90625e-07
+Training loss: 0.002928, Accuracy: 52.29
+Validation loss: 0.015644, Accuracy: 30.42
+-------------------------------------------
+Epoch 445/499, Current Learning Rate: 3.90625e-07
+Training loss: 0.002806, Accuracy: 51.03
+Validation loss: 0.015707, Accuracy: 30.42
+-------------------------------------------
+Epoch 446/499, Current Learning Rate: 3.90625e-07
+Training loss: 0.003072, Accuracy: 51.00
+Validation loss: 0.015681, Accuracy: 30.32
+-------------------------------------------
+Epoch 447/499, Current Learning Rate: 3.90625e-07
+Training loss: 0.003018, Accuracy: 51.70
+Validation loss: 0.015688, Accuracy: 30.47
+-------------------------------------------
+Epoch 448/499, Current Learning Rate: 3.90625e-07
+Training loss: 0.002867, Accuracy: 51.13
+Validation loss: 0.015730, Accuracy: 30.54
+-------------------------------------------
+Epoch 449/499, Current Learning Rate: 3.90625e-07
+Training loss: 0.002796, Accuracy: 53.00
+Validation loss: 0.015703, Accuracy: 30.37
+-------------------------------------------
+Epoch 450/499, Current Learning Rate: 3.90625e-07
+Epoch   451: reducing learning rate of group 0 to 1.9531e-07.
+Loading best  model weights...
+Training loss: 0.003087, Accuracy: 51.17
+Validation loss: 0.015736, Accuracy: 30.53
+-------------------------------------------
+Epoch 451/499, Current Learning Rate: 1.953125e-07
+Training loss: 0.003547, Accuracy: 48.33
+Validation loss: 0.014905, Accuracy: 29.59
+-------------------------------------------
+Epoch 452/499, Current Learning Rate: 1.953125e-07
+Training loss: 0.003290, Accuracy: 49.55
+Validation loss: 0.014992, Accuracy: 30.06
+-------------------------------------------
+Epoch 453/499, Current Learning Rate: 1.953125e-07
+Training loss: 0.003191, Accuracy: 50.27
+Validation loss: 0.015064, Accuracy: 30.24
+-------------------------------------------
+Epoch 454/499, Current Learning Rate: 1.953125e-07
+Training loss: 0.002924, Accuracy: 51.33
+Validation loss: 0.015133, Accuracy: 30.39
+-------------------------------------------
+Epoch 455/499, Current Learning Rate: 1.953125e-07
+Training loss: 0.003116, Accuracy: 51.09
+Validation loss: 0.015195, Accuracy: 30.51
+-------------------------------------------
+Epoch 456/499, Current Learning Rate: 1.953125e-07
+Training loss: 0.003247, Accuracy: 50.15
+Validation loss: 0.015243, Accuracy: 30.58
+-------------------------------------------
+Epoch 457/499, Current Learning Rate: 1.953125e-07
+Training loss: 0.003120, Accuracy: 51.33
+Validation loss: 0.015302, Accuracy: 30.65
+-------------------------------------------
+Epoch 458/499, Current Learning Rate: 1.953125e-07
+Training loss: 0.003264, Accuracy: 50.41
+Validation loss: 0.015360, Accuracy: 30.77
+-------------------------------------------
+Epoch 459/499, Current Learning Rate: 1.953125e-07
+Training loss: 0.003004, Accuracy: 50.56
+Validation loss: 0.015401, Accuracy: 30.85
+-------------------------------------------
+Epoch 460/499, Current Learning Rate: 1.953125e-07
+Training loss: 0.003025, Accuracy: 51.01
+Validation loss: 0.015425, Accuracy: 30.85
+-------------------------------------------
+Epoch 461/499, Current Learning Rate: 1.953125e-07
+Training loss: 0.003092, Accuracy: 51.49
+Validation loss: 0.015429, Accuracy: 30.86
+-------------------------------------------
+Epoch 462/499, Current Learning Rate: 1.953125e-07
+Training loss: 0.003102, Accuracy: 51.21
+Validation loss: 0.015461, Accuracy: 30.84
+-------------------------------------------
+Epoch 463/499, Current Learning Rate: 1.953125e-07
+Training loss: 0.002810, Accuracy: 52.19
+Validation loss: 0.015479, Accuracy: 30.82
+-------------------------------------------
+Epoch 464/499, Current Learning Rate: 1.953125e-07
+Training loss: 0.003280, Accuracy: 51.08
+Validation loss: 0.015522, Accuracy: 30.82
+-------------------------------------------
+Epoch 465/499, Current Learning Rate: 1.953125e-07
+
+Training loss: 0.002785, Accuracy: 51.66
+Validation loss: 0.015493, Accuracy: 30.78
+-------------------------------------------
+Epoch 466/499, Current Learning Rate: 1.953125e-07
+Training loss: 0.002944, Accuracy: 50.88
+Validation loss: 0.015506, Accuracy: 30.80
+-------------------------------------------
+Epoch 467/499, Current Learning Rate: 1.953125e-07
+Training loss: 0.003120, Accuracy: 50.63
+Validation loss: 0.015529, Accuracy: 30.83
+-------------------------------------------
+Epoch 468/499, Current Learning Rate: 1.953125e-07
+Training loss: 0.002990, Accuracy: 51.00
+Validation loss: 0.015554, Accuracy: 30.81
+-------------------------------------------
+Epoch 469/499, Current Learning Rate: 1.953125e-07
+Training loss: 0.003206, Accuracy: 50.61
+Validation loss: 0.015553, Accuracy: 30.74
+-------------------------------------------
+Epoch 470/499, Current Learning Rate: 1.953125e-07
+Training loss: 0.003143, Accuracy: 50.48
+Validation loss: 0.015555, Accuracy: 30.71
+-------------------------------------------
+Epoch 471/499, Current Learning Rate: 1.953125e-07
+Epoch   472: reducing learning rate of group 0 to 9.7656e-08.
+Loading best  model weights...
+Training loss: 0.002963, Accuracy: 52.00
+Validation loss: 0.015534, Accuracy: 30.69
+-------------------------------------------
+Epoch 472/499, Current Learning Rate: 9.765625e-08
+Training loss: 0.003241, Accuracy: 48.35
+Validation loss: 0.014854, Accuracy: 29.24
+-------------------------------------------
+Epoch 473/499, Current Learning Rate: 9.765625e-08
+Training loss: 0.003354, Accuracy: 48.93
+Validation loss: 0.014887, Accuracy: 29.55
+-------------------------------------------
+Epoch 474/499, Current Learning Rate: 9.765625e-08
+Training loss: 0.003259, Accuracy: 49.91
+Validation loss: 0.014938, Accuracy: 29.85
+-------------------------------------------
+Epoch 475/499, Current Learning Rate: 9.765625e-08
+Training loss: 0.003215, Accuracy: 49.49
+Validation loss: 0.014974, Accuracy: 30.02
+-------------------------------------------
+Epoch 476/499, Current Learning Rate: 9.765625e-08
+Training loss: 0.003305, Accuracy: 49.77
+Validation loss: 0.015022, Accuracy: 30.19
+-------------------------------------------
+Epoch 477/499, Current Learning Rate: 9.765625e-08
+Training loss: 0.003039, Accuracy: 50.81
+Validation loss: 0.015055, Accuracy: 30.30
+-------------------------------------------
+Epoch 478/499, Current Learning Rate: 9.765625e-08
+Training loss: 0.002981, Accuracy: 51.22
+Validation loss: 0.015095, Accuracy: 30.39
+-------------------------------------------
+Epoch 479/499, Current Learning Rate: 9.765625e-08
+Training loss: 0.003248, Accuracy: 49.36
+Validation loss: 0.015122, Accuracy: 30.42
+-------------------------------------------
+Epoch 480/499, Current Learning Rate: 9.765625e-08
+Training loss: 0.003207, Accuracy: 49.89
+Validation loss: 0.015152, Accuracy: 30.48
+-------------------------------------------
+Epoch 481/499, Current Learning Rate: 9.765625e-08
+Training loss: 0.003107, Accuracy: 50.28
+Validation loss: 0.015181, Accuracy: 30.55
+-------------------------------------------
+Epoch 482/499, Current Learning Rate: 9.765625e-08
+Training loss: 0.003260, Accuracy: 50.41
+Validation loss: 0.015221, Accuracy: 30.63
+-------------------------------------------
+Epoch 483/499, Current Learning Rate: 9.765625e-08
+Training loss: 0.003169, Accuracy: 50.52
+Validation loss: 0.015233, Accuracy: 30.63
+-------------------------------------------
+Epoch 484/499, Current Learning Rate: 9.765625e-08
+Training loss: 0.002986, Accuracy: 51.11
+Validation loss: 0.015249, Accuracy: 30.66
+-------------------------------------------
+Epoch 485/499, Current Learning Rate: 9.765625e-08
+Training loss: 0.003453, Accuracy: 49.90
+Validation loss: 0.015271, Accuracy: 30.69
+-------------------------------------------
+Epoch 486/499, Current Learning Rate: 9.765625e-08
+Training loss: 0.002998, Accuracy: 51.43
+Validation loss: 0.015294, Accuracy: 30.73
+-------------------------------------------
+Epoch 487/499, Current Learning Rate: 9.765625e-08
+Training loss: 0.003087, Accuracy: 51.05
+Validation loss: 0.015296, Accuracy: 30.70
+-------------------------------------------
+Epoch 488/499, Current Learning Rate: 9.765625e-08
+Training loss: 0.003229, Accuracy: 50.32
+Validation loss: 0.015312, Accuracy: 30.70
+-------------------------------------------
+Epoch 489/499, Current Learning Rate: 9.765625e-08
+Training loss: 0.003055, Accuracy: 50.65
+Validation loss: 0.015331, Accuracy: 30.73
+-------------------------------------------
+Epoch 490/499, Current Learning Rate: 9.765625e-08
+Training loss: 0.003298, Accuracy: 50.60
+Validation loss: 0.015334, Accuracy: 30.71
+-------------------------------------------
+Epoch 491/499, Current Learning Rate: 9.765625e-08
+Training loss: 0.003110, Accuracy: 50.48
+Validation loss: 0.015344, Accuracy: 30.72
+-------------------------------------------
+Epoch 492/499, Current Learning Rate: 9.765625e-08
+Epoch   493: reducing learning rate of group 0 to 4.8828e-08.
+Loading best  model weights...
+Training loss: 0.003134, Accuracy: 50.30
+Validation loss: 0.015366, Accuracy: 30.76
+-------------------------------------------
+Epoch 493/499, Current Learning Rate: 4.8828125e-08
+Training loss: 0.003605, Accuracy: 47.62
+Validation loss: 0.014838, Accuracy: 29.05
+-------------------------------------------
+Epoch 494/499, Current Learning Rate: 4.8828125e-08
+Training loss: 0.003418, Accuracy: 48.21
+Validation loss: 0.014851, Accuracy: 29.22
+-------------------------------------------
+Epoch 495/499, Current Learning Rate: 4.8828125e-08
+Training loss: 0.003473, Accuracy: 47.74
+Validation loss: 0.014865, Accuracy: 29.34
+-------------------------------------------
+Epoch 496/499, Current Learning Rate: 4.8828125e-08
+Training loss: 0.003390, Accuracy: 49.57
+Validation loss: 0.014884, Accuracy: 29.46
+-------------------------------------------
+Epoch 497/499, Current Learning Rate: 4.8828125e-08
+Training loss: 0.003669, Accuracy: 49.32
+Validation loss: 0.014900, Accuracy: 29.55
+-------------------------------------------
+Epoch 498/499, Current Learning Rate: 4.8828125e-08
+Training loss: 0.003300, Accuracy: 49.60
+Validation loss: 0.014922, Accuracy: 29.68
+-------------------------------------------
+Epoch 499/499, Current Learning Rate: 4.8828125e-08
+Training loss: 0.003308, Accuracy: 49.34
+Validation loss: 0.014943, Accuracy: 29.78
+------------------------------------------------------------------------------------
