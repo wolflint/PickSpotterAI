@@ -1,0 +1,10 @@
+/data/train/T*
+/data/val/V*
+
+models/
+
+data/
+
+.ipynb_checkpoints/
+
+__pycache__/
